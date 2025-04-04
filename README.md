@@ -29,7 +29,7 @@
 ### 📈 Minhas Estatísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=delblerferreira&theme=tokyonight)](https://git.io/streak-stats)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&cache_seconds=30)
 
 ---
 
