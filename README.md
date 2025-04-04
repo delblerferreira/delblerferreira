@@ -22,7 +22,7 @@
 
 ### 📌 Projetos em Destaque
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=**delblerferreira**&theme=tokyonight)](https://github.com/delblerferreira/**delblerferreira**)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=delblerferreira&theme=tokyonight)](https://github.com/delblerferreira/delblerferreira)
 
 ---
 
