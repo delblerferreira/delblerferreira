@@ -4,7 +4,8 @@
 
 ### 👨💻 Sobre Mim
 🎓 **Engenheiro de Software em Formação** 
-🎓 **Engenheiro de Produção em Formação** 
+🎓 **Engenheiro de Produção em Formação**
+🎓 **Engenheiro de Mecânica em Formação**
 📊 **Administrador Profissional**  
 💡 Foco em: Automação de Processos | Análise de Dados | Soluções Tech-Driven  
 🌱 Atualmente aprendendo: Web Development | Python Avançado | Machine Learning  
