@@ -1,127 +1,79 @@
-# Delbler Ferreira Amancio - Portfólio Profissional
-
-## 📍 Cabeçalho Profissional
-
-**Nome completo:** Delbler Ferreira Amancio  
-**Cargo atual:** Administrador  
-**Localização:** Online  
-**Contato:**  
-- Email: [delblerferreira@ieee.org](mailto:delblerferreira@ieee.org)  
-- LinkedIn: [linkedin.com/in/delbler-ferreira-consultor](https://www.linkedin.com/in/delbler-ferreira-consultor/)  
-- Site Pessoal: *Em construção*  
-
-**Status Profissional:**  
-Administrador/Gestor com mais de 8 anos de experiência nas áreas industriais, demolição, construção civil e trabalho voluntário. Com formação em Técnico em Segurança do Trabalho (2017) e graduado em Gestão de Recursos Humanos, Administração com ênfase em Contabilidade, Gestão, GTI e Segurança do Trabalho (2022). MBA Executivo em Gestão Empresarial, com foco em gestão da qualidade e projetos.
-
-## 🚀 Sobre / Resumo Executivo
-
-Atuei na melhoria da qualidade dos processos industriais e da mão de obra, contribuindo para a redução de riscos e aumento da eficiência operacional. Tenho experiência em programas de segurança, gestão de documentação, monitoramento de equipamentos, liderança de equipes, manutenção industrial, controle de processos e verificação operacional.
-
-Sou proativo, orientado a resultados e focado em melhoria contínua e qualidade por meio de metodologias de qualidade na produção. Atualmente, curso Engenharia de Produção, com ênfase em qualidade de produtos e serviços, Engenharia de Software e Engenharia Mecânica.
-
-### Áreas de Especialização
-- Gestão Empresarial
-- Tecnologias principais (core stack): IA GPT, BI, VS Code, Gemini
-
-### Objetivos ou missão profissional:
-Fazer a diferença com verdadeiras técnicas comprovadas por Executivos no mundo corporativo.
+## Delbler Ferreira Amancio - Portfólio Profissional
 
 ---
 
-## 🏆 Projetos em Destaque
-
-### 📌 **Projeto de Planejamento de Negócios Digitais**  
-**MBA USP/Esalq**  
-📅 **Mai/2023 – Ago/2024**  
-Foco: Gestão de Organizações Digitais  
-Atuação: Planejamento estratégico e digitalização de processos organizacionais.
-
-### 📌 **Otimização e Gestão de Custo**  
-**Faculdades Integradas de Fernandópolis – FiFE**  
-📅 **Fev/2023 – Jul/2023**  
-Foco: Análise de Custo e Otimização de Processos  
-Atuação: Mapeamento de processos, análise financeira e redução de desperdícios operacionais.
-
-### 📌 **Projeto de Circuito Elétrico com LED 7 Segmentos**  
-**Faculdades Integradas de Fernandópolis – FiFE**  
-📅 **Abr/2023 – Jun/2023**  
-Ferramenta: Proteus Design Suite  
-Foco: Simulação e prototipagem de circuitos digitais.
-
-### 📌 **Projeto Multidisciplinar - Ambientes Organizacionais**  
-**Universidade Cruzeiro do Sul**  
-📅 **2021 – 2022**  
-Projetos Desenvolvidos:  
-- Ambiente Operacional  
-- Ambiente Financeiro  
-- Ambiente Estratégico  
-- Ambiente Competitivo  
-- Ambiente Empresarial  
-- Ambiente Logístico (Estudo de Caso: Loja Havan Brusque – SC)  
-Foco: Análise estratégica, eficiência operacional e diagnóstico organizacional.
-
-### 📌 **Projeto de Saúde e Segurança: Ruídos Ambientais - NR 15**  
-📅 **Ago/2015 – Set/2017**  
-**Instituto Educacional Profissionalizante – IEP**  
-Foco: Segurança do Trabalho e Insalubridade  
-Atuação: Análise técnica e elaboração de relatórios conforme a norma regulamentadora.
+### 👨‍💻 Sobre Mim
+🎓 **Engenheiro de Software em Formação**  
+🎓 **Engenheiro de Produção em Formação**  
+🎓 **Engenheiro de Mecânica em Formação**  
+📊 **Administrador Profissional**  
+💡 **Foco em:** Automação de Processos | Análise de Dados | Soluções Tech-Driven  
+🌱 **Atualmente aprendendo:** Web Development | Python Avançado | Machine Learning  
 
 ---
 
-## ⚙️ Habilidades Técnicas
+### 🛠️ Stack Tecnológico
 
-- **Linguagens de programação:** Python, JavaScript
-- **Frameworks e bibliotecas:** Django, Flask, React
-- **Ferramentas DevOps e Cloud:** AWS, GCP
-- **Gestão de Projetos e Processos**
-- **Otimização de Custos e Eficiência Operacional**
-- **Gestão de Segurança do Trabalho**
-- **Simulação e Modelagem com Software Técnico (Proteus)**
-- **Metodologias e práticas:** Agile, TDD
-- **Gestão do Tempo e Produtividade**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌐 Contribuições Open Source
+### 📌 Projetos em Destaque
 
-- [Projeto de Segurança do Trabalho: NR 15 - Ruídos Ambientais](link_do_repositorio)
-- [Projeto de Planejamento de Negócios Digitais](link_do_repositorio)
-
----
-
-## 📊 Estatísticas GitHub
-
-![Stats de contribuições](https://github-readme-stats.vercel.app/api?username=delbler&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### Linguagens mais usadas:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delbler&theme=radical)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=delblerferreira&theme=tokyonight)](https://github.com/delblerferreira/delblerferreira)
 
 ---
 
-## 🎓 Certificações e Formação
+### 📈 Minhas Estatísticas
 
-- **Drawing Interpretation (GD&T)** – ASME (abr de 2025)
-- **Aircraft Maintenance Documentation For Amts (Amt Core Crs 2012)** – Federal Aviation Administration (fev de 2025)
-- **COMPORTAMENTO EMPREENDEDOR** – Sebrae (fev de 2025)
-- **Flight Review Prep Guide** – Federal Aviation Administration (fev de 2025)
-- **Agile Project Management** – University of Colorado Boulder (out de 2024)
-- **Designing for User Experience** – Microsoft (out de 2024)
-- **Inteligência Artificial: eleve sua produtividade e acelere sua carreira** – Escola Conquer (mai de 2024)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=delblerferreira&theme=tokyonight)](https://git.io/streak-stats)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&cache_seconds=30)
 
 ---
 
-## 📬 Associações e Credenciais
+### 📬 Contato Profissional
 
-- **Associado ASME (The American Society of Mechanical Engineers)** – Mar 2025 - Mar 2026
-- **Associado NSPE (National Society of Professional Engineers)** – Mar 2025 - Jun 2025
-- **Associado IEEE (Institute of Electrical and Electronics Engineers)** – Mar 2025 - Dez 2025
-- **Associado ABNT (Associação Brasileira de Normas Técnicas)** – Jan 2025 - Jan 2026
-- **Associado ABEPRO (Associação Brasileira de Engenharia de Produção)** – Out 2024 - Dez 2025
+<p align="left">
+  <a href="https://www.linkedin.com/in/delbler-ferreira-consultor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/delbler_ferreira" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
-## 📌 Links Importantes
-- [LinkedIn: Delbler Ferreira](https://www.linkedin.com/in/delbler-ferreira-consultor/)
-- [Site Pessoal](#) *Em construção*
+### 🎯 Metas para 2025
+- [x] Iniciar especialização em Machine Learning  
+- [ ] Publicar primeiro artigo técnico  
+- [ ] Desenvolver sistema de automação empresarial  
+- [ ] Alcançar 1k seguidores no GitHub
+
+---
+
+<details>
+<summary>📚 Guia de Estudos (Clique para Expandir)</summary>
+
+**Rotina Diária:**
+1. 1h Leitura Técnica  
+2. 2h Prática de Codificação  
+3. 30min Revisão de Algoritmos  
+
+**Recursos Favoritos:**
+- Livro: "Clean Code" de Robert C. Martin  
+- Curso: CS50's Introduction to Computer Science  
+- Newsletter: Towards Data Science  
+
+</details>
+
+---
+
+> *"Na intersecção entre negócios e tecnologia, construo pontes para o futuro digital."* 🚀
+
 
 
