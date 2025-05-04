@@ -32,8 +32,6 @@
 
 ---
 
-### 📈 Minhas Estatísticas
-
 <div align="center">
 
   <!-- Cartão de estatísticas de GitHub reais -->
