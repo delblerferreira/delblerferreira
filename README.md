@@ -30,15 +30,27 @@
 
 ### 📈 Minhas Estatísticas
 
+---
+
+### 📈 Minhas Estatísticas
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-<br><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/>
-<br><br>
-<img height="180em" src="https://streak-stats.demolab.com?user=delblerferreira&theme=tokyonight&hide_border=true" alt="Contribuições Diárias"/>
+  <!-- Cartão de estatísticas de GitHub reais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- Linguagens mais utilizadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
+
+<!-- Streaks reais -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=delblerferreira&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
+
+---
+
 
 ---
 
