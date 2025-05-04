@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/109921594?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://abstartups.com.br/wp-content/uploads/2018/10/Qual-a-tecnologia.jpg" width="50" height="50" style="border-radius: 50%;" />
   <h1>Delbler Ferreira Amancio</h1>
   <p><em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em></p>
 </div>
