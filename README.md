@@ -25,6 +25,7 @@
 ### 📌 Projetos em Destaque
 
 [![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=delblerferreira&theme=tokyonight)](https://github.com/delblerferreira/delblerferreira)
+[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 ---
 
