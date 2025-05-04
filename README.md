@@ -30,14 +30,7 @@
 
 ### 📈 Minhas Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&hide_border=true)
-<br>
-<img src="https://streak-stats.demolab.com?user=delblerferreira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/> <br><br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/> <br><br> <img height="180em" src="https://streak-stats.demolab.com?user=delblerferreira&theme=tokyonight&hide_border=true" alt="Contribuições Diárias"/> </div>
 
 ---
 
