@@ -24,15 +24,20 @@
 
 ### 📌 Projetos em Destaque
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=delblerferreira&theme=tokyonight)](https://github.com/delblerferreira/delblerferreira)
-[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=finance_blog&theme=tokyonight)](https://github.com/delblerferreira/finance_blog)
 
 ---
 
 ### 📈 Minhas Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=delblerferreira&theme=tokyonight)](https://git.io/streak-stats)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&cache_seconds=30)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&hide_border=true)
+<br>
+<img src="https://streak-stats.demolab.com?user=delblerferreira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
@@ -75,6 +80,7 @@
 ---
 
 > *"Na intersecção entre negócios e tecnologia, construo pontes para o futuro digital."* 🚀
+
 
 
 
