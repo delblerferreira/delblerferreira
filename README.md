@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.bing.com/images/search?q=Figuras+De+Tecnologia&FORM=IRIBIP" width="120" height="120" style="border-radius: 120%;" />
+  <img src="https://abstartups.com.br/wp-content/uploads/2018/10/Qual-a-tecnologia.jpg" width="120" height="120" style="border-radius: 120%;" />
   <h1>Delbler Ferreira Amancio</h1>
   <p><em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em></p>
 </div>
