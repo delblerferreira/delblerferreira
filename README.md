@@ -24,13 +24,15 @@
 
 ### 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=finance_blog&theme=tokyonight)](https://github.com/delblerferreira/finance_blog)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=delblerferreira&theme=tokyonight)](https://github.com/delblerferreira/delblerferreira)
+[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 ---
 
 ### 📈 Minhas Estatísticas
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/> <br><br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/> <br><br> <img height="180em" src="https://streak-stats.demolab.com?user=delblerferreira&theme=tokyonight&hide_border=true" alt="Contribuições Diárias"/> </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=delblerferreira&theme=tokyonight)](https://git.io/streak-stats)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&theme=tokyonight&cache_seconds=30)
 
 ---
 
@@ -72,7 +74,8 @@
 
 ---
 
-> *"Na intersecção entre negócios e tecnologia, construo pontes para o futuro digital."* 🚀
+> *"Na intersecção entre negócios e tecnologia, construo pontes para o futuro digital."* 🚀 atualize o codigo para mostrar estatistica atualizadas, capitando codigos usados como PYton VsCode e etc mantenha meu padrão de codigo e remova duplicidade [![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=delblerferreira&repo=delblerferreira&theme=tokyonight)](https://github.com/delblerferreira/delblerferreira)
+[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 
 
