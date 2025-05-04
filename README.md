@@ -4,7 +4,7 @@
   <p><em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em></p>
 </div>
 
-## Delbler Ferreira Amancio - Portfólio Profissional
+## Portfólio Profissional
 
 ---
 
