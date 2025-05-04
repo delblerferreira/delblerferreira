@@ -49,9 +49,6 @@
 
 ---
 
-
----
-
 ### 📬 Contato Profissional
 
 <p align="left">
