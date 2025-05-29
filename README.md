@@ -1,27 +1,29 @@
 <div align="center" style="font-family: Arial, sans-serif;">
   <div style="
     border: 3px solid #4A90E2;
-    border-radius: 20px;
-    padding: 10px;
+    border-radius: 15px;
+    padding: 15px;
     display: inline-block;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   ">
     <img 
       src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
-      width="120" 
-      height="120" 
+      width="150" 
+      height="150" 
       style="
-        border-radius: 20px;
+        border-radius: 15px;
         border: 2px solid #4A90E2;
+        display: block;
+        margin: 0 auto;
       " 
     />
-    <h1 style="margin: 10px 0 5px 0; color: #333;">Delbler Ferreira Amancio</h1>
+    <h1 style="margin: 15px 0 5px 0; color: #333;">Delbler Ferreira Amancio</h1>
     <p style="margin: 0; color: #555;">
       <em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em>
     </p>
   </div>
 </div>
-
 
 ## Portfólio Profissional
 
