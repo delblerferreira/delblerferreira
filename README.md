@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" width="86" height="86" style="border-radius: 86%;" />
+  <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" width="102" height="102" style="border-radius: 102%;" />
   <h1>Delbler Ferreira Amancio</h1>
   <p><em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em></p>
 </div>
