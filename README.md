@@ -1,8 +1,27 @@
-<div align="center">
-  <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" width="102" height="102" style="border-radius: 102%;" />
-  <h1>Delbler Ferreira Amancio</h1>
-  <p><em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em></p>
+<div align="center" style="font-family: Arial, sans-serif;">
+  <div style="
+    border: 3px solid #4A90E2;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    background-color: #f9f9f9;
+  ">
+    <img 
+      src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
+      width="120" 
+      height="120" 
+      style="
+        border-radius: 20px;
+        border: 2px solid #4A90E2;
+      " 
+    />
+    <h1 style="margin: 10px 0 5px 0; color: #333;">Delbler Ferreira Amancio</h1>
+    <p style="margin: 0; color: #555;">
+      <em>Engenharias | Desenvolvedor de Projetos | Criador de Soluções TI</em>
+    </p>
+  </div>
 </div>
+
 
 ## Portfólio Profissional
 
