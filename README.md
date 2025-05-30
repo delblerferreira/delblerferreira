@@ -203,7 +203,7 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
     section Leitura Técnica
-    Em Andamento           :active,    lt, 2025-02-01, 2025-05-31
+    Concluido           :active,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
     Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
