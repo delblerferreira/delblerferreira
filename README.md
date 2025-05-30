@@ -29,10 +29,7 @@
 </div>
 
 ## 🚀 Portfólio Profissional
-
 ---
-
-### 👨‍💻 Perfil Técnico
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
   <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
     <h3 style="margin-top: 0; color: #2c3e50;">Formação Acadêmica</h3>
