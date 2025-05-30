@@ -34,12 +34,27 @@
   <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
     <h3 style="margin-top: 0; color: #2c3e50;">Formação Acadêmica</h3>
     <ul style="padding-left: 20px;">
-      <li>Engenharia de Software</li>
-      <li>aria dearia de Produção</li>
-      <li>Engenharia Mecânica</li>
+      <li>Engenharia de Software em Formação</li>
+      <li>Engenharia de Produção em Formação</li>
+      <li>Engenharia Mecânica em Formação</li>
     </ul>
   </div>
+  <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
+    <h3 style="margin-top: 0; color: #2c3e50;">Experiência & Foco</h3>
+    <ul style="padding-left: 20px;">
+      <li>Administrador de Finanças Freelance</li>
+      <li>Foco em: Automação de Processos, Análise de Dados, Soluções Tech-Driven</li>
+    </ul>
   </div>
+  <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
+    <h3 style="margin-top: 0; color: #2c3e50;">Aprendizado Atual</h3>
+    <ul style="padding-left: 20px;">
+      <li>Web Development</li>
+      <li>Python Avançado</li>
+      <li>Machine Learning</li>
+    </ul>
+  </div>
+</div>
   
   <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
     <h3 style="margin-top: 0; color: #2c3e50;">Especializações</h3>
