@@ -315,17 +315,18 @@ gantt
 
 ---
 
-### 🎯 Roadmap Profissional 2025
-
-```mermaid
 gantt
     title Metas para 2025
     dateFormat  YYYY-MM-DD
+    axisFormat  %b
+    excludes    weekends
+    %% Estendendo o período para dar espaço e melhorar alinhamento
     section Especialização
     Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
     Publicação Técnica         :          des2, after des1, 90d
     section Desenvolvimento
     Sistema de Automação       :          des3, 2025-03-01, 120d
     section Comunidade
-    1k GitHub Followers        :          des4, 2025-07-01, 180d
+    1k GitHub Followers        :          des4, 2025-07-01, 2025-12-31
+
 
