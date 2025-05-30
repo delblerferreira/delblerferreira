@@ -27,27 +27,19 @@
     </p>
   </div>
 </div>
-
-## 🚀 Portfólio Profissional
-
 ---
-
-🎓 **Engenheiro de Software em Formação**  
-🎓 **Engenheiro de Produção em Formação**  
-🎓 **Engenheiro Mecânico em Formação**  
-📊 **Administrador de Finanças Freelance**  
-💡 **Foco em:** Automação de Processos | Análise de Dados | Soluções Tech-Driven  
-🌱 **Atualmente aprendendo:** Desenvolvimento Web | Python Avançado | Machine Learning  
-
-### 👨‍💻 Perfil Técnico
+## 🚀 Portfólio Profissional
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
   <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
     <h3 style="margin-top: 0; color: #2c3e50;">Formação Acadêmica</h3>
     <ul style="padding-left: 20px;">
-      <li>Engenharia de Software</li>
-      <li>Engenharia de Produção</li>
-      <li>Engenharia Mecânica</li>
+      <li>🎓 **Engenheiro de Software em Formação** </li>
+      <li>🎓 **Engenheiro de Produção em Formação**  </li>
+      <li>🎓 **Engenheiro Mecânico em Formação**  </li>
+<li>🎓 📊 **Administrador de Finanças Freelance**   </li>
+<li>🎓 💡 **Foco em:** Automação de Processos | Análise de Dados | Soluções Tech-Driven </li>
+<li>🎓🌱 **Atualmente aprendendo:** Desenvolvimento Web | Python Avançado | Machine Learning </li>
     </ul>
   </div>
   
