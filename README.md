@@ -176,7 +176,7 @@ gantt
       <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
       <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Concluido</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
