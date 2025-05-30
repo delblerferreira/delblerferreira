@@ -159,8 +159,6 @@ gantt
 
 ---
 
-### 📚 Guia de Estudos
-
 <details>
 <summary>📚 Guia de Estudos (Clique para Expandir)</summary>
 
@@ -228,6 +226,29 @@ gantt
 
 <script>
   // Permite clicar nas células de status para mudar o status e a cor (ciclo entre 3 estados)
+  document.querySelectorAll('.status-cell').forEach(cell => {
+    cell.addEventListener('click', () => {
+      if (cell.classList.contains('status-ja')) {
+        cell.classList.remove('status-ja');
+        cell.classList.add('status-andamento');
+        cell.textContent = 'Em Andamento';
+        cell.setAttribute('data-status', 'em andamento');
+      } else if (cell.classList.contains('status-andamento')) {
+        cell.classList.remove('status-andamento');
+        cell.classList.add('status-concluido');
+        cell.textContent = 'Concluído';
+        cell.setAttribute('data-status', 'concluído');
+      } else {
+        cell.classList.remove('status-concluido');
+        cell.classList.add('status-ja');
+        cell.textContent = 'Já Estudado';
+        cell.setAttribute('data-status', 'já estudado');
+      }
+    });
+  });
+</script>
+
+---
 
 ### 📊 Andamento do Estudo (Gráfico Customizado)
 
@@ -242,6 +263,3 @@ gantt
     Em Andamento          :active,  pc, 2025-05-03, 2025-05-05
     section Revisão de Algoritmos
     Concluído             :done,    ra, 2025-04-28, 2025-04-29
-
-
-
