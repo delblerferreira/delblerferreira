@@ -26,8 +26,7 @@
       <em>Engenheiro Multidisciplinar | Desenvolvedor Full-Stack | Especialista em Automação</em>
     </p>
   </div>
-</div>
-
+  
 ## 🚀 Portfólio Profissional
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
