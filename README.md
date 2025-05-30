@@ -32,6 +32,13 @@
 
 ---
 
+🎓 **Engenheiro de Software em Formação**  
+🎓 **Engenheiro de Produção em Formação**  
+🎓 **Engenheiro Mecânico em Formação**  
+📊 **Administrador de Finanças Freelance**  
+💡 **Foco em:** Automação de Processos | Análise de Dados | Soluções Tech-Driven  
+🌱 **Atualmente aprendendo:** Desenvolvimento Web | Python Avançado | Machine Learning  
+
 ### 👨‍💻 Perfil Técnico
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
@@ -53,6 +60,7 @@
     </ul>
   </div>
 </div>
+
 
 ---
 
