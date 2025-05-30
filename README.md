@@ -162,7 +162,24 @@ gantt
     Sistema de Automação       :          des3, 2025-03-01, 120d
     section Comunidade
     1k GitHub Followers        :          des4, 2025-07-01, 180d
+---
+<details>
+<summary>📚 Guia de Estudos (Clique para Expandir)</summary>
 
+**Rotina Diária:**
+1. 1h Leitura Técnica  
+2. 2h Prática de Codificação  
+3. 30min Revisão de Algoritmos  
 
+**Recursos Favoritos:**
+- Livro: "Clean Code" de Robert C. Martin  
+- Curso: CS50's Introduction to Computer Science  
+- Newsletter: Towards Data Science  
+
+</details>
+
+---
+
+> *"Na intersecção entre negócios e tecnologia, construo pontes para o futuro digital."* 🚀
 
 
