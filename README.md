@@ -199,16 +199,12 @@ gantt
 
 ```mermaid
 gantt
-    title Progresso dos Estudos (Atualizado até 2025-05-29)
+    title Progresso dos Estudos
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
-
     section Leitura Técnica
     Já Estudado           :done,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
     Em Andamento          :active,  pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
-    Em Andamento          :active,  ra, 2025-02-01, 2025-10-31
-
-    classDef done fill:#5cb85c,color:#000000
-    classDef active fill:#5bc0de,color:#000000
+    Concluído             :done,    ra, 2025-02-01, 2025-10-31
