@@ -30,40 +30,40 @@
   
 ## 🚀 Portfólio Profissional
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-  <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
-    <h3 style="margin-top: 0; color: #2c3e50;">Formação Acadêmica</h3>
-    <ul style="padding-left: 20px;">
-      <li>Engenharia de Software em Formação</li>
-      <li>Engenharia de Produção em Formação</li>
-      <li>Engenharia Mecânica em Formação</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
-    <h3 style="margin-top: 0; color: #2c3e50;">Experiência & Foco</h3>
-    <ul style="padding-left: 20px;">
-      <li>Administrador de Finanças Freelance</li>
-      <li>Foco em: Automação de Processos, Análise de Dados, Soluções Tech-Driven</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
-    <h3 style="margin-top: 0; color: #2c3e50;">Aprendizado Atual</h3>
-    <ul style="padding-left: 20px;">
-      <li>Web Development</li>
-      <li>Python Avançado</li>
-      <li>Machine Learning</li>
-    </ul>
-  </div>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50;">
   
-  <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
-    <h3 style="margin-top: 0; color: #2c3e50;">Especializações</h3>
-    <ul style="padding-left: 20px;">
-      <li>Automação de Processos</li>
-      <li>Análise de Dados</li>
-      <li>Soluções Tech-Driven</li>
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      <span>🎓</span> Formação Acadêmica
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">👨‍💻 Engenharia de Software <em>(em Formação)</em></li>
+      <li style="margin-bottom: 10px;">🏭 Engenharia de Produção <em>(em Formação)</em></li>
+      <li>⚙️ Engenharia Mecânica <em>(em Formação)</em></li>
     </ul>
   </div>
+
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      <span>💼</span> Experiência & Foco
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">📊 Administrador de Finanças Freelance</li>
+      <li>💡 Foco em: Automação de Processos, Análise de Dados, Soluções Tech-Driven</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      <span>🌱</span> Aprendizado Atual
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">🌐 Web Development</li>
+      <li style="margin-bottom: 10px;">🐍 Python Avançado</li>
+      <li>🤖 Machine Learning</li>
+    </ul>
+  </div>
+
 </div>
 
 ---
