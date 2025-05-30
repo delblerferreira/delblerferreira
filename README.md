@@ -176,21 +176,19 @@ gantt
       <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
       <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; color:white; background-color:#f0ad4e;">Já Estudado</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
       <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; color:white; background-color:#5bc0de;">Em Andamento</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
       <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5cb85c; color:#002060; font-weight:bold;">
-        Concluído
-      </td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
     </tr>
   </tbody>
 </table>
@@ -205,8 +203,8 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
     section Leitura Técnica
-    Já Estudado           :done,    lt, 2025-02-01, 2025-05-31
+    Em Andamento           :active,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
-    Em Andamento          :active,  pc, 2025-02-01, 2025-12-31
+    Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
-    Concluído             :done,    ra, 2025-02-01, 2025-10-31
+    Em Andamento           :active,    ra, 2025-02-01, 2025-10-31
