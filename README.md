@@ -167,23 +167,27 @@ gantt
     <tr>
       <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Assunto</th>
       <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Tempo (h)</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Período</th>
       <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">1</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
       <td style="border:1px solid #f0ad4e; padding:8px; color:white; background-color:#f0ad4e;">Já Estudado</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">2</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
       <td style="border:1px solid #5bc0de; padding:8px; color:white; background-color:#5bc0de;">Em Andamento</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">0.5</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
       <td style="border:1px solid #5cb85c; padding:8px; color:white; background-color:#5cb85c;">Concluído</td>
     </tr>
   </tbody>
@@ -197,10 +201,10 @@ gantt
 gantt
     title Progresso dos Estudos
     dateFormat  YYYY-MM-DD
-    axisFormat  %d/%m
+    axisFormat  %m/%Y
     section Leitura Técnica
-    Já Estudado           :done,    lt, 2025-05-01, 2025-05-02
+    Já Estudado           :done,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
-    Em Andamento          :active,  pc, 2025-05-03, 2025-05-05
+    Em Andamento          :active,  pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
-    Concluído             :done,    ra, 2025-04-28, 2025-04-29
+    Concluído             :done,    ra, 2025-02-01, 2025-10-31
