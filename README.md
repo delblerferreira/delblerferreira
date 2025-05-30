@@ -195,11 +195,10 @@ gantt
 
 ---
 
-### 📊 Andamento do Estudo (Gráfico Customizado)
+### <span style="color:#002060;">Progresso dos Estudos</span>
 
 ```mermaid
 gantt
-    title Progresso dos Estudos
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
     section Leitura Técnica
@@ -208,3 +207,6 @@ gantt
     Em Andamento          :active,  pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
     Concluído             :done,    ra, 2025-02-01, 2025-10-31
+
+    classDef done fill:#5cb85c, color:#002060
+    classDef active fill:#5bc0de, color:#002060
