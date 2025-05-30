@@ -195,9 +195,6 @@ gantt
 
 ---
 
-### 📊 Andamento do Estudo
-
-```mermaid
 ### 📊 Andamento do Estudo (Gráfico Customizado)
 
 ```mermaid
