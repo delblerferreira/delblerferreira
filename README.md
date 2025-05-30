@@ -162,91 +162,32 @@ gantt
 <details>
 <summary>📚 Guia de Estudos (Clique para Expandir)</summary>
 
-<style>
-  .study-table {
-    width: 100%;
-    max-width: 600px;
-    border-collapse: collapse;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 15px;
-  }
-  .study-table th, .study-table td {
-    border: 1px solid #4A90E2;
-    padding: 10px;
-    text-align: center;
-  }
-  .study-table th {
-    background-color: #4A90E2;
-    color: white;
-  }
-  .status-cell {
-    cursor: pointer;
-    user-select: none;
-  }
-  .status-ja {
-    background-color: #f0ad4e; /* amarelo */
-    color: #fff;
-  }
-  .status-andamento {
-    background-color: #5bc0de; /* azul claro */
-    color: #fff;
-  }
-  .status-concluido {
-    background-color: #5cb85c; /* verde */
-    color: #fff;
-  }
-</style>
-
-<table class="study-table">
+<table>
   <thead>
     <tr>
-      <th>Assunto</th>
-      <th>Tempo (h)</th>
-      <th>Status</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Assunto</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Tempo (h)</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Leitura Técnica</td>
-      <td>1</td>
-      <td class="status-cell status-ja" data-status="já estudado">Já Estudado</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">1</td>
+      <td style="border:1px solid #f0ad4e; padding:8px; color:white; background-color:#f0ad4e;">Já Estudado</td>
     </tr>
     <tr>
-      <td>Prática de Codificação</td>
-      <td>2</td>
-      <td class="status-cell status-andamento" data-status="em andamento">Em Andamento</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">2</td>
+      <td style="border:1px solid #5bc0de; padding:8px; color:white; background-color:#5bc0de;">Em Andamento</td>
     </tr>
     <tr>
-      <td>Revisão de Algoritmos</td>
-      <td>0.5</td>
-      <td class="status-cell status-concluido" data-status="concluído">Concluído</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">0.5</td>
+      <td style="border:1px solid #5cb85c; padding:8px; color:white; background-color:#5cb85c;">Concluído</td>
     </tr>
   </tbody>
 </table>
-
-<script>
-  // Permite clicar nas células de status para mudar o status e a cor (ciclo entre 3 estados)
-  document.querySelectorAll('.status-cell').forEach(cell => {
-    cell.addEventListener('click', () => {
-      if (cell.classList.contains('status-ja')) {
-        cell.classList.remove('status-ja');
-        cell.classList.add('status-andamento');
-        cell.textContent = 'Em Andamento';
-        cell.setAttribute('data-status', 'em andamento');
-      } else if (cell.classList.contains('status-andamento')) {
-        cell.classList.remove('status-andamento');
-        cell.classList.add('status-concluido');
-        cell.textContent = 'Concluído';
-        cell.setAttribute('data-status', 'concluído');
-      } else {
-        cell.classList.remove('status-concluido');
-        cell.classList.add('status-ja');
-        cell.textContent = 'Já Estudado';
-        cell.setAttribute('data-status', 'já estudado');
-      }
-    });
-  });
-</script>
 
 ---
 
