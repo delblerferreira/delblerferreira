@@ -26,6 +26,7 @@
       <em>Engenheiro Multidisciplinar | Desenvolvedor Full-Stack | Especialista em Automação</em>
     </p>
   </div>
+  </div>
   
 ## 🚀 Portfólio Profissional
 ---
@@ -37,6 +38,7 @@
       <li>aria dearia de Produção</li>
       <li>Engenharia Mecânica</li>
     </ul>
+  </div>
   </div>
   
   <div style="flex: 1; min-width: 250px; background: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 4px solid #4A90E2;">
