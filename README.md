@@ -195,16 +195,18 @@ gantt
 
 ---
 
-### 📊 Andamento do Estudo (Gráfico Customizado)
+### 📊 Andamento do Estudo (Progresso Atualizado até 2025-05-29)
 
 ```mermaid
 gantt
-    title Progresso dos Estudos
+    title Progresso dos Estudos (Atualizado até 2025-05-29)
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
     section Leitura Técnica
     Já Estudado           :done,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
-    Em Andamento          :active,  pc, 2025-02-01, 2025-12-31
+    Progresso             :active,  pc, 2025-02-01, 2025-05-29
+    Restante              :        pr, 2025-05-30, 2025-12-31
     section Revisão de Algoritmos
-    Concluído             :done,    ra, 2025-02-01, 2025-10-31
+    Progresso             :active,  ra, 2025-02-01, 2025-05-29
+    Restante              :        pr2, 2025-05-30, 2025-10-31
