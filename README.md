@@ -205,8 +205,9 @@ gantt
     section Leitura Técnica
     Já Estudado           :done,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
-    Progresso             :active,  pc, 2025-02-01, 2025-05-29
-    Restante              :        pr, 2025-05-30, 2025-12-31
+    Em Andamento          :active,  pc, 2025-02-01, 2025-05-29
+    Até o Fim             :        pr, 2025-05-30, 2025-12-31
     section Revisão de Algoritmos
-    Progresso             :active,  ra, 2025-02-01, 2025-05-29
-    Restante              :        pr2, 2025-05-30, 2025-10-31
+    Em Andamento          :active,  ra, 2025-02-01, 2025-05-29
+    Até o Fim             :        pr2, 2025-05-30, 2025-10-31
+
