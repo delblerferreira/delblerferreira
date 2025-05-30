@@ -198,30 +198,20 @@ gantt
 ### 📊 Andamento do Estudo
 
 ```mermaid
+### 📊 Andamento do Estudo (Gráfico Customizado)
+
+```mermaid
 gantt
     title Progresso dos Estudos (Atualizado até 2025-05-29)
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
 
-    %% Definição de classes para as barras
-    classDef done fill:#5cb85c,stroke:#333,stroke-width:1px,color:#002060
-    classDef active fill:#0B3D91,stroke:#333,stroke-width:1px,color:#D1E8FF
-    classDef remaining fill:#E0E7F8,stroke:#333,stroke-width:1px,color:#002060
-
     section Leitura Técnica
     Já Estudado           :done,    lt, 2025-02-01, 2025-05-31
     section Prática de Codificação
-    Em Andamento          :active,  pc, 2025-02-01, 2025-05-29
-    Até o Fim             :remaining, pr, 2025-05-30, 2025-12-31
+    Em Andamento          :active,  pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
-    Em Andamento          :active,  ra, 2025-02-01, 2025-05-29
-    Até o Fim             :remaining, pr2, 2025-05-30, 2025-10-31
+    Em Andamento          :active,  ra, 2025-02-01, 2025-10-31
 
-    %% Aplicar classes
-    class lt done
-    class pc active
-    class pr remaining
-    class ra active
-    class pr2 remaining
-
-
+    classDef done fill:#5cb85c,color:#000000
+    classDef active fill:#5bc0de,color:#000000
