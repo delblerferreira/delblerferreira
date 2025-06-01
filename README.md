@@ -1,3 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delbler Ferreira - Profissional</title>
+    <style>
+        :root {
+            --primary-color: #6A52FF;
+            --secondary-color: #4A90E2;
+            --text-color: #333;
+            --light-bg: #f8f9fa;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf9 100%);
+            padding: 20px;
+        }
+        
+        .title-container {
+            text-align: center;
+            max-width: 800px;
+            width: 100%;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .title-container::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, var(--primary-color) 0%, transparent 70%);
+            opacity: 0.05;
+            z-index: -1;
+        }
+        
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 20px;
+            color: var(--text-color);
+            position: relative;
+            display: inline-block;
+        }
+        
+        h1::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--primary-color);
+            transform: scaleX(0);
+            transform-origin: left;
+            animation: underline-grow 1.5s ease-in-out forwards;
+        }
+        
+        .typewriter {
+            overflow: hidden;
+            border-right: 3px solid var(--primary-color);
+            white-space: nowrap;
+            margin: 0 auto;
+            letter-spacing: 1px;
+            animation: typing 2s steps(20, end), blink-caret 0.75s step-end infinite;
+        }
+        
+        .profession-carousel {
+            height: 80px;
+            margin: 30px 0;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .profession-item {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+        }
+        
+        .profession-item.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        
+        .profession-title {
+            font-size: 2.2rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 8px;
+        }
+        
+        .profession-desc {
+            font-size: 1.2rem;
+            color: var(--text-color);
+            max-width: 80%;
+            text-align: center;
+        }
+        
+        .roadmap-button {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 14px 32px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(106, 82, 255, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .roadmap-button:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(106, 82, 255, 0.4);
+        }
+        
+        .roadmap-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transition: all 0.6s ease;
+        }
+        
+        .roadmap-button:hover::before {
+            left: 100%;
+        }
+        
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+        
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: var(--primary-color) }
+        }
+        
+        @keyframes underline-grow {
+            to { transform: scaleX(1); }
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            
+            .profession-title {
+                font-size: 1.8rem;
+            }
+            
+            .profession-desc {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="title-container">
+        <h1 class="typewriter">Delbler Ferreira</h1>
+        
+        <div class="profession-carousel">
+            <div class="profession-item active">
+                <div class="profession-title">Especialista em Machine Learning</div>
+                <div class="profession-desc">Desenvolvendo soluções inteligentes com algoritmos avançados</div>
+            </div>
+            
+            <div class="profession-item">
+                <div class="profession-title">Engenheiro de Automação</div>
+                <div class="profession-desc">Criando sistemas eficientes para otimizar processos</div>
+            </div>
+            
+            <div class="profession-item">
+                <div class="profession-title">Desenvolvedor Full Stack</div>
+                <div class="profession-desc">Construindo aplicações web completas e escaláveis</div>
+            </div>
+            
+            <div class="profession-item">
+                <div class="profession-title">Contribuidor Open Source</div>
+                <div class="profession-desc">Compartilhando conhecimento com a comunidade tech</div>
+            </div>
+        </div>
+        
+        <button class="roadmap-button">Ver Roadmap Completo</button>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const professionItems = document.querySelectorAll('.profession-item');
+            let currentIndex = 0;
+            
+            function rotateProfession() {
+                // Remover classe ativa de todos os itens
+                professionItems.forEach(item => item.classList.remove('active'));
+                
+                // Adicionar classe ativa ao próximo item
+                professionItems[currentIndex].classList.add('active');
+                
+                // Atualizar índice
+                currentIndex = (currentIndex + 1) % professionItems.length;
+            }
+            
+            // Iniciar rotação a cada 4 segundos
+            setInterval(rotateProfession, 4000);
+            
+            // Efeito hover no botão
+            const roadmapButton = document.querySelector('.roadmap-button');
+            roadmapButton.addEventListener('click', function() {
+                this.textContent = 'Redirecionando...';
+                setTimeout(() => {
+                    // Ação ao clicar (pode ser redirecionamento para o roadmap)
+                    alert('Redirecionando para o Roadmap Profissional!');
+                }, 800);
+            });
+        });
+    </script>
+</body>
+</html>
+---
+---
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <div style="
     border: 3px solid #4A90E2;
