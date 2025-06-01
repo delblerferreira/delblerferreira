@@ -1,6 +1,4 @@
 <div align="center">
-
-  <!-- Imagem de Perfil -->
   <img 
     src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
     width="150" 
@@ -8,36 +6,24 @@
     style="border-radius: 15px; border: 3px solid #0077B6;"
   />
 
-  <br><br>
+  <br>
 
-  <!-- Letreiro com Borda e Sombra -->
-  <a href="https://github.com/Delbler" target="_blank">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenharia+Full-Stack;Especialista+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar" 
-      alt="Typing SVG"
-      style="
-        border: 4px solid #4B0082;
-        border-radius: 12px;
-        box-shadow: 0 0 12px #000000;
-        padding: 6px;
-        background-color: #0a0a0a;
-      "
-    />
-  </a>
-
-  <br><br>
-
-  <!-- Subtítulo com Cores Americana -->
+  <!-- Animação do título com efeito de digitação e cores -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
+    alt="Typing SVG"
+  />
+  
+  <!-- Subtítulo com cores no estilo americano -->
   <p>
     <span style="color:#FF0000"><b>Engenheiro Multidisciplinar</b></span> |
-    <span style="color:#0077B6"><b>Desenvolvedor Full-Stack</b></span> |
+    <span style="color:#0000FF"><b>Desenvolvedor Full-Stack</b></span> |
     <span style="color:#FFFFFF; background-color:#000000; padding:2px 6px; border-radius:5px;">
       <b>Especialista em Automação</b>
     </span>
   </p>
 </div>
 
-  
 ## 🚀 Portfólio Profissional
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50;">
