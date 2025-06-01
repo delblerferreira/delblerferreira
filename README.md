@@ -8,16 +8,27 @@
 
   <br>
 
-  <!-- Animação do título com efeito de digitação e cores -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
-    alt="Typing SVG"
-  />
+  <!-- Letreiro com borda -->
+  <div style="
+    display: inline-block; 
+    border: 4px solid #4B0082; 
+    box-shadow: 0 0 10px #000000; 
+    border-radius: 12px; 
+    padding: 5px 10px;
+    background-color: #00000020;">
+    
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar" 
+      alt="Typing SVG"
+    />
+  </div>
   
-  <!-- Subtítulo com cores no estilo americano -->
+  <br><br>
+
+  <!-- Subtítulo com cores estilo americana -->
   <p>
     <span style="color:#FF0000"><b>Engenheiro Multidisciplinar</b></span> |
-    <span style="color:#0000FF"><b>Desenvolvedor Full-Stack</b></span> |
+    <span style="color:#0077B6"><b>Desenvolvedor Full-Stack</b></span> |
     <span style="color:#FFFFFF; background-color:#000000; padding:2px 6px; border-radius:5px;">
       <b>Especialista em Automação</b>
     </span>
