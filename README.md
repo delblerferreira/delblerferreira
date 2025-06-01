@@ -16,8 +16,8 @@
 
   <hr>
 
- <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&speed=2&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+pagina"
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&speed=2&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+pagina"
   alt="Typing SVG"
 />
 
