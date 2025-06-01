@@ -14,22 +14,21 @@
     alt="Typing SVG"
   />
   
-  <!-- Nova animação SVG typing -->
+  <!-- Animação SVG typing (cor roxa) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&pause=800&color=FF0000,0000FF,FFFFFF&center=true&vCenter=true&width=600&lines=Engenheiro+Multidisciplinar;Desenvolvimento+Full-Stack;Especialidade+em+Automação"
+  src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&pause=800&color=800080&center=true&vCenter=true&width=600&lines=Engenheiro+Multidisciplinar;Desenvolvimento+Full-Stack;Especialidade+em+Automação"
   alt="Typing SVG"
-  style="background-color:#000000; border-radius:10px; padding:10px;"
+  style="background-color:#f0f0f0; border-radius:10px; padding:10px; display:block; margin:auto;"
 />
 
 <!-- Subtítulo com cores no estilo americano -->
-<p style="font-family: 'Courier New', monospace; font-size:18px; margin-top:10px;">
+<p style="font-family: 'Courier New', monospace; font-size:18px; margin-top:15px; text-align:center;">
   <span style="color:#FF0000; font-weight:bold;">Engenheiro Multidisciplinar</span> |
   <span style="color:#0000FF; font-weight:bold;">Desenvolvimento Full-Stack</span> |
   <span style="color:#FFFFFF; background-color:#000000; padding:2px 8px; border-radius:5px; font-weight:bold;">
     Especialidade em Automação
   </span>
 </p>
-
 
 ## 🚀 Portfólio Profissional
 ---
