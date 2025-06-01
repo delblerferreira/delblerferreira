@@ -23,36 +23,6 @@
     </span>
   </p>
 </div>
-
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <div style="
-    border: 3px solid #4A90E2;
-    border-radius: 15px;
-    padding: 25px;
-    display: inline-block;
-    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
-    max-width: 600px;
-    width: 100%;
-  ">
-    <img 
-      src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
-      width="150" 
-      height="150" 
-      style="
-        border-radius: 15px;
-        border: 3px solid #4A90E2;
-        display: block;
-        margin: 0 auto 20px;
-        box-shadow: 0 4px 8px rgba,0,0,0,0.1);
-      " 
-    />
-    <h1 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 2.2rem;">Delbler Ferreira Amancio</h1>
-    <p style="margin: 0; color: #4A90E2; font-size: 1.1rem; font-weight: 500;">
-      <em>Engenheiro Multidisciplinar | Desenvolvedor Full-Stack | Especialista em Automação</em>
-    </p>
-  </div>
-  </div>
   
 ## 🚀 Portfólio Profissional
 ---
