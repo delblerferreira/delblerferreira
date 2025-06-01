@@ -23,21 +23,22 @@
 
 ## 🚀 Portfólio Profissional
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; text-align: left;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
   
-  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; text-align: left;">
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
       <span>🎓</span> Formação Acadêmica
     </h3>
     <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">👨‍💻 Engenharia de Software <em>(em Formação)</em></li>
-      <li style="margin-bottom: 10px;">🏭 Engenharia de Produção <em>(em Formação)</em></li>
-      <li>⚙️ Engenharia Mecânica <em>(em Formação)</em></li>
+      <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Engenharia de Software <em>(em Formação)</em></li>
+      <li style="margin-bottom: 10px; text-align: left;">🏭 Engenharia de Produção <em>(em Formação)</em></li>
+      <li style="text-align: left;">⚙️ Engenharia Mecânica <em>(em Formação)</em></li>
     </ul>
   </div>
+</div>
 
   <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; text-align: left;">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
       <span>💼</span> Experiência & Foco
     </h3>
     <ul style="list-style: none; padding-left: 0;">
@@ -47,7 +48,7 @@
   </div>
 
   <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; text-align: left;">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
       <span>🌱</span> Aprendizado Atual
     </h3>
     <ul style="list-style: none; padding-left: 0;">
@@ -63,7 +64,7 @@
 
 ### 🛠️ Stack Tecnológico Completo
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 25px 0; text-align: left;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 25px 0;">
 
 **Linguagens & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -89,7 +90,7 @@
 
 ### 📌 Projetos em Destaque
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0; text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=blueberry&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
@@ -137,25 +138,67 @@
 
 ### 🎯 Roadmap Profissional 2025
 
-<div style="text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
 ```mermaid
 gantt
     title Metas para 2025
     dateFormat  YYYY-MM-DD
     section Especialização
-    Curso Avançado Python          :done,    des1, 2024-07-01, 2024-12-31
-    Certificação AWS               :active,  des2, 2025-01-01, 2025-06-30
-    Aprender React Native          :         des3, 2025-07-01, 2025-12-31
-    section Projetos Pessoais
-    Desenvolver App Financeiro     :         proj1, 2025-03-01, 2025-09-30
-    Contribuir para Open Source   :         proj2, 2025-04-15, 2025-12-31
-    section Networking
-    Participar Eventos Técnicos    :         net1, 2024-08-01, 2025-12-31
+    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
+    Publicação Técnica         :         des2, after des1, 90d
+    section Desenvolvimento
+    Sistema Automação          :         des3, 2025-03-01, 120d
+    section Comunidade
+    1k GitHub Followers        :         des4, 2025-07-01, 180d
+```
 
+---
 
+<details>
+<summary>📚 Guia de Estudos (Clique para Expandir)</summary>
 
+<table>
+  <thead>
+    <tr>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Assunto</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Tempo (h)</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Período</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Concluido</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
+    </tr>
+  </tbody>
+</table>
 
+---
 
+### 📊 Andamento do Estudo (Gráfico Customizado)
 
-
-
+```mermaid
+gantt
+    title Progresso dos Estudos
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%Y
+    section Leitura Técnica
+    Concluido           :active,    lt, 2025-02-01, 2025-05-31
+    section Prática de Codificação
+    Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
+    section Revisão de Algoritmos
+    Em Andamento           :active,    ra, 2025-02-01, 2025-10-31
