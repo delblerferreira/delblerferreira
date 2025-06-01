@@ -36,6 +36,29 @@
     </ul>
   </div>
 
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      <span>💼</span> Experiência & Foco
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">📊 Administrador de Finanças Freelance</li>
+      <li>💡 Foco em: Automação de Processos, Análise de Dados, Soluções Tech-Driven</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      <span>🌱</span> Aprendizado Atual
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">🌐 Web Development</li>
+      <li style="margin-bottom: 10px;">🐍 Python Avançado</li>
+      <li>🤖 Machine Learning</li>
+    </ul>
+  </div>
+
+</div>
+
 ---
 
 ### 🛠️ Stack Tecnológico Completo
@@ -178,6 +201,7 @@ gantt
     Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
     Em Andamento           :active,    ra, 2025-02-01, 2025-10-31
+
 
 
 
