@@ -13,22 +13,6 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
     alt="Typing SVG"
   />
-  
-  <!-- Animação SVG typing (cor roxa) -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&pause=800&color=800080&center=true&vCenter=true&width=600&lines=Engenheiro+Multidisciplinar;Desenvolvimento+Full-Stack;Especialidade+em+Automação"
-  alt="Typing SVG"
-  style="background-color:#f0f0f0; border-radius:10px; padding:10px; display:block; margin:auto;"
-/>
-
-<!-- Subtítulo com cores no estilo americano -->
-<p style="font-family: 'Courier New', monospace; font-size:18px; margin-top:15px; text-align:center;">
-  <span style="color:#FF0000; font-weight:bold;">Engenheiro Multidisciplinar</span> |
-  <span style="color:#0000FF; font-weight:bold;">Desenvolvimento Full-Stack</span> |
-  <span style="color:#FFFFFF; background-color:#000000; padding:2px 8px; border-radius:5px; font-weight:bold;">
-    Especialidade em Automação
-  </span>
-</p>
 
 ## 🚀 Portfólio Profissional
 ---
