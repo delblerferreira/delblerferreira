@@ -1,68 +1,95 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <div style="
-    border: 3px solid #4A90E2;
-    border-radius: 15px;
-    padding: 25px;
-    display: inline-block;
-    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
-    max-width: 600px;
-    width: 100%;
-  ">
-    <img 
-      src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
-      width="150" 
-      height="150" 
-      style="
-        border-radius: 15px;
-        border: 3px solid #4A90E2;
-        display: block;
-        margin: 0 auto 20px;
-        box-shadow: 0 4px 8px rgba,0,0,0,0.1);
-      " 
-    />
-    <h1 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 2.2rem;">Delbler Ferreira Amancio</h1>
-    <p style="margin: 0; color: #4A90E2; font-size: 1.1rem; font-weight: 500;">
-      <em>Engenheiro Multidisciplinar | Desenvolvedor Full-Stack | Especialista em Automação</em>
-    </p>
-  </div>
-  </div>
-  
-## 🚀 Portfólio Profissional
+<div align="center">
+  <img 
+    src="https://i.postimg.cc/LXRTBZXB/8G-Rede.gif" 
+    width="150" 
+    height="150" 
+    alt="Logo Animado"
+  />
+
+  <br>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenheiro+Multidisciplinar;Desenvolvedor+Full+Stack;Especialista+em+Automação" 
+    alt="Typing SVG"
+  />
+</div>
+
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50;">
-  
-  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      <span>🎓</span> Formação Acadêmica
-    </h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">👨‍💻 Engenharia de Software <em>(em Formação)</em></li>
-      <li style="margin-bottom: 10px;">🏭 Engenharia de Produção <em>(em Formação)</em></li>
-      <li>⚙️ Engenharia Mecânica <em>(em Formação)</em></li>
-    </ul>
-  </div>
 
-  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      <span>💼</span> Experiência & Foco
-    </h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">📊 Administrador de Finanças Freelance</li>
-      <li>💡 Foco em: Automação de Processos, Análise de Dados, Soluções Tech-Driven</li>
-    </ul>
-  </div>
+## 🚀 Portfólio Profissional
 
-  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      <span>🌱</span> Aprendizado Atual
-    </h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">🌐 Web Development</li>
-      <li style="margin-bottom: 10px;">🐍 Python Avançado</li>
-      <li>🤖 Machine Learning</li>
-    </ul>
-  </div>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300" style="vertical-align: top;">
+      <h3>🎓 Formação Acadêmica</h3>
+      <ul align="left">
+        <li>👨‍💻 Engenharia de Software (em Formação)</li>
+        <li>🏭 Engenharia de Produção (em Formação)</li>
+        <li>⚙️ Engenharia Mecânica (em Formação)</li>
+      </ul>
+    </td>
+
+    <td align="center" width="300" style="vertical-align: top;">
+      <h3>💼 Experiência & Foco</h3>
+      <ul align="left">
+        <li>📊 Administrador de Finanças Freelance</li>
+        <li>💡 Foco em: Automação, Dados, Soluções Tech-Driven</li>
+      </ul>
+    </td>
+
+    <td align="center" width="300" style="vertical-align: top;">
+      <h3>🌱 Aprendizado Atual</h3>
+      <ul align="left">
+        <li>🌐 Web Development</li>
+        <li>🐍 Python Avançado</li>
+        <li>🤖 Machine Learning</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Redes Sociais e Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/seuusuario">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Delbler's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=blueberry)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=blueberry)
 
 </div>
 
