@@ -13,6 +13,12 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
     alt="Typing SVG"
   />
+---
+<!-- Animação do título com efeito de digitação e cores -->
+  <img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&speed=2&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+pagina"
+  alt="Typing SVG"
+/>
 
 ## 🚀 Portfólio Profissional
 ---
