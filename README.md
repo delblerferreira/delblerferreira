@@ -13,7 +13,33 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
     alt="Typing SVG"
   />
+---
+<style>
+  .blink-img {
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+    animation: blink 1.5s infinite;
+  }
 
+  @keyframes blink {
+    0%, 50%, 100% {
+      opacity: 1;
+    }
+    25%, 75% {
+      opacity: 0.3;
+    }
+  }
+</style>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&speed=2&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+pagina"
+  alt="Typing SVG"
+  class="blink-img"
+/>
+---
 ## 🚀 Portfólio Profissional
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50;">
