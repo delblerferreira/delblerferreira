@@ -17,9 +17,9 @@
   <!-- Subtítulo com cores no estilo americano -->
   <p>
     <span style="color:#FF0000"><b>Engenheiro Multidisciplinar</b></span> |
-    <span style="color:#0000FF"><b>Desenvolvedor Full-Stack</b></span> |
+    <span style="color:#0000FF"><b>Desenvolvimento Full-Stack</b></span> |
     <span style="color:#FFFFFF; background-color:#000000; padding:2px 6px; border-radius:5px;">
-      <b>Especialista em Automação</b>
+      <b>Especialidade em Automação</b>
     </span>
   </p>
 </div>
