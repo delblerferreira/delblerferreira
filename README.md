@@ -3,22 +3,27 @@
     src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
     width="150" 
     height="150" 
-    style="border-radius: 15px; border: 3px solid #4A90E2;"
+    style="border-radius: 15px; border: 3px solid #0077B6;"
   />
-  
+
   <br>
 
+  <!-- Animação do título com efeito de digitação e cores -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Delbler+Ferreira+Amancio" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Delbler+Ferreira+Amancio;Engenheiro+Full-Stack;Especialista+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
     alt="Typing SVG"
   />
   
-  <p style="color: #4A90E2; font-size: 1.1rem; font-weight: 500;">
-    <em>Engenheiro Multidisciplinar | Desenvolvedor Full-Stack | Especialista em Automação</em>
+  <!-- Subtítulo com cores no estilo americano -->
+  <p>
+    <span style="color:#FF0000"><b>Engenheiro Multidisciplinar</b></span> |
+    <span style="color:#0000FF"><b>Desenvolvedor Full-Stack</b></span> |
+    <span style="color:#FFFFFF; background-color:#000000; padding:2px 6px; border-radius:5px;">
+      <b>Especialista em Automação</b>
+    </span>
   </p>
 </div>
 
-  
 ## 🚀 Portfólio Profissional
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50;">
