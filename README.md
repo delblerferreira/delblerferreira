@@ -22,9 +22,9 @@
     class="blink-img"
   />
 </div>
----
+
 ## 🚀 Portfólio Profissional
----
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50;">
   
   <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
