@@ -22,27 +22,6 @@
     class="blink-img"
   />
 </div>
-
-<style>
-  .blink-img {
-    background-color: black;
-    border-radius: 10px;
-    padding: 10px;
-    display: block;
-    margin: 20px auto;
-    animation: blink 1.5s infinite;
-  }
-
-  @keyframes blink {
-    0%, 50%, 100% {
-      opacity: 1;
-    }
-    25%, 75% {
-      opacity: 0.3;
-    }
-  }
-</style>
-
 ---
 ## 🚀 Portfólio Profissional
 ---
