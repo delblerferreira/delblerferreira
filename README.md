@@ -3,7 +3,8 @@
        alt="Typing SVG" style="max-width: 100%; height: auto;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
        alt="Typing SVG" style="max-width: 100%; height: auto;">
-</div>
+ <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <br>
 
 <hr>
 
