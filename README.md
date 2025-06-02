@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
 <div style="text-align: center;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
-       width="150" 
-       height="150" 
+       width="180" 
+       height="180" 
        style="border-radius: 15px; border: 3px solid #0077B6;"/>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <br>
