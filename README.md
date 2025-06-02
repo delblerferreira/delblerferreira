@@ -1,6 +1,4 @@
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
        alt="Typing SVG">
        <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
