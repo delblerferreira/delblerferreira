@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; min-height: 100vh; flex-wrap: wrap; text-align: center;">
 
   <!-- Imagem de perfil -->
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
@@ -17,7 +17,6 @@
 </div>
 
 <hr>
-
 
 <h2 style="text-align: center;">🚀 Portfólio Profissional</h2>
 <hr>🚀 Portfólio Profissional</h2>
