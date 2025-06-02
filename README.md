@@ -1,24 +1,21 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
-       alt="Typing SVG">
+<div style="text-align: left;">
 
-  <br>
-
+<div style="text-align: center;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
        width="150" 
        height="150" 
        style="border-radius: 15px; border: 3px solid #0077B6;"/>
-
   <br>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
+       alt="Typing SVG">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
        alt="Typing SVG">
-
-  <hr style="width: 80%; margin-top: 20px;">
 </div>
 
----
+<hr>
+
 <h2 style="text-align: left;">🚀 Portfólio Profissional</h2>
+<hr>🚀 Portfólio Profissional</h2>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
