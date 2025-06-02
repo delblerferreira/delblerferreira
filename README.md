@@ -1,13 +1,10 @@
-<div style="text-align: center;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
-         alt="Typing SVG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
-         alt="Typing SVG">
-  </div>
-  <hr>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
+       alt="Typing SVG" style="max-width: 100%; height: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
+       alt="Typing SVG" style="max-width: 100%; height: auto;">
 </div>
+
 
 <h2 style="text-align: center;">🚀 Portfólio Profissional</h2>
 <hr>
