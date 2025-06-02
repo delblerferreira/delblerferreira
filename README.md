@@ -1,4 +1,4 @@
-<div style="text-align: left;">
+<div style="text-align: center;">
 
 <div style="text-align: center;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
@@ -14,7 +14,7 @@
 
 <hr>
 
-<h2 style="text-align: left;">🚀 Portfólio Profissional</h2>
+<h2 style="text-align: center;">🚀 Portfólio Profissional</h2>
 <hr>🚀 Portfólio Profissional</h2>
 <hr>
 
