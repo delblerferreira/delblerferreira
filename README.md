@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
-<div style="text-align: center;">
+<div style="text-align: justify-content:center;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
        width="180" 
        height="180" 
