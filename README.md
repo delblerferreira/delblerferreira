@@ -1,22 +1,73 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; min-height: 100vh; flex-wrap: wrap; text-align: center;">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfil</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
 
-  <!-- Imagem de perfil -->
-  <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
-       width="150" 
-       height="150" 
-       style="border-radius: 15px; border: 3px solid #0077B6;"/>
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+      flex-wrap: wrap;
+      text-align: center;
+    }
 
-  <!-- Letreiros -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
-         alt="Typing SVG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
-         alt="Typing SVG">
+    .profile-img {
+      border-radius: 15px;
+      border: 3px solid #0077B6;
+      width: 150px;
+      height: 150px;
+    }
+
+    .typing-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      max-width: 600px;
+    }
+
+    hr {
+      width: 100%;
+      border: 1px solid #ccc;
+      margin-top: 30px;
+    }
+
+    @media (max-width: 700px) {
+      .typing-container img {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <img class="profile-img" src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" alt="Perfil">
+
+    <div class="typing-container">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina" 
+           alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar"
+           alt="Typing SVG">
+    </div>
   </div>
 
-</div>
+  <hr>
 
-<hr>
+</body>
+</html>
 
 <h2 style="text-align: center;">🚀 Portfólio Profissional</h2>
 <hr>🚀 Portfólio Profissional</h2>
