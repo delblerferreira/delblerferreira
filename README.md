@@ -90,7 +90,7 @@
 
 ### 📌 Projetos em Destaque
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=blueberry&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
