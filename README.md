@@ -3,9 +3,7 @@
 <div style="text-align: center;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
        width="150" 
-       height="150"
-     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <br>
+       height="150" 
        style="border-radius: 15px; border: 3px solid #0077B6;"/>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <br>
