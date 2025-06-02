@@ -1,5 +1,4 @@
 <div style="text-align: center;">
-  
 <div style="text-align: center;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
        width="150" 
@@ -7,7 +6,6 @@
        style="border-radius: 15px; border: 3px solid #0077B6;"/>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <br>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Oi,+Sou+Delbler+Ferreira;Desenvolvedor+dessa+p%C3%A1gina;Engenharia+Full-Stack;Especialidade+em+Automa%C3%A7%C3%A3o;Engenheiro+Multidisciplinar" 
        alt="Typing SVG">
 
