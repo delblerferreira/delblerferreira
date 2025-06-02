@@ -2,7 +2,7 @@
   
 <div style="text-align: justify-content:center;">
   
- <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
+  <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png"
        width="180" 
        height="180" 
        style="border-radius: 15px; border: 3px solid #0077B6;"/>
