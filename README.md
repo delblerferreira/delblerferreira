@@ -15,7 +15,6 @@
 <hr>
 
 <h2 style="text-align: center;">🚀 Portfólio Profissional</h2>
-<hr>🚀 Portfólio Profissional</h2>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
@@ -202,3 +201,5 @@ gantt
     Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
     section Revisão de Algoritmos
     Em Andamento           :active,    ra, 2025-02-01, 2025-10-31
+```
+</details>
