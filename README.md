@@ -15,7 +15,7 @@
 
 <hr>
 
-<hr>🚀 Portfólio Profissional</h2>
+<h2 style="text-align: center;">🚀 Portfólio Profissional</h2>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
