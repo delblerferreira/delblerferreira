@@ -20,68 +20,40 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
 
-  <!-- Formação Acadêmica -->
-  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      🎓 Formação Acadêmica
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+      <span>🎓</span> Formação Acadêmica
     </h3>
     <ul style="list-style: none; padding-left: 0;">
-      <li>👨‍💻 Engenharia de Software <em>(em Formação)</em></li>
-      <li>🏭 Engenharia de Produção <em>(em Formação)</em></li>
-      <li>⚙️ Engenharia Mecânica <em>(em Formação)</em></li>
+      <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Engenharia de Software <em>(em Formação)</em></li>
+      <li style="margin-bottom: 10px; text-align: left;">🏭 Engenharia de Produção <em>(em Formação)</em></li>
+      <li style="text-align: left;">⚙️ Engenharia Mecânica <em>(em Formação)</em></li>
     </ul>
   </div>
 
-  <!-- Experiência Profissional -->
-  <div style="flex: 1; min-width: 280px; background: #f0fff0; padding: 20px; border-radius: 10px; border-left: 5px solid #27ae60; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      💼 Experiência Profissional
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+      <span>💼</span> Experiência & Foco
     </h3>
     <ul style="list-style: none; padding-left: 0;">
-      <li>🖥️ Analista de Dados - Empresa X (2023 - Atual)</li>
-      <li>🔧 Técnico em Manutenção - Empresa Y (2021 - 2023)</li>
+      <li style="margin-bottom: 10px; text-align: left;">📊 Administrador de Finanças Freelance</li>
+      <li style="text-align: left;">💡 Foco em: Automação de Processos, Análise de Dados, Soluções Tech-Driven</li>
     </ul>
   </div>
 
-  <!-- Habilidades -->
-  <div style="flex: 1; min-width: 280px; background: #fffaf0; padding: 20px; border-radius: 10px; border-left: 5px solid #f39c12; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      🧠 Habilidades Técnicas
+  <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+      <span>🌱</span> Aprendizado Atual
     </h3>
     <ul style="list-style: none; padding-left: 0;">
-      <li>✔️ Excel Avançado / VBA</li>
-      <li>✔️ Python / Power BI</li>
-      <li>✔️ SQL / MySQL</li>
-      <li>✔️ AutoCAD / SolidWorks</li>
-    </ul>
-  </div>
-
-  <!-- Projetos -->
-  <div style="flex: 1; min-width: 280px; background: #fef0f0; padding: 20px; border-radius: 10px; border-left: 5px solid #e74c3c; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      📂 Projetos Desenvolvidos
-    </h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>📊 Dashboard de Vendas em Excel</li>
-      <li>🗂️ Sistema de Controle de Estoque em VBA</li>
-      <li>🔍 Análise de Dados com Python</li>
-    </ul>
-  </div>
-
-  <!-- Contato -->
-  <div style="flex: 1; min-width: 280px; background: #f0f0ff; padding: 20px; border-radius: 10px; border-left: 5px solid #9b59b6; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      📞 Contato
-    </h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>📧 email@email.com</li>
-      <li>📱 (00) 91234-5678</li>
-      <li>🌐 <a href="https://linkedin.com/in/seulinkedin" target="_blank">LinkedIn</a></li>
+      <li style="margin-bottom: 10px; text-align: left;">🌐 Web Development</li>
+      <li style="margin-bottom: 10px; text-align: left;">🐍 Python Avançado</li>
+      <li style="text-align: left;">🤖 Machine Learning</li>
     </ul>
   </div>
 
 </div>
-
+<hr>
 <h3 style="text-align: left;">🛠️ Stack Tecnológico Completo</h3>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 25px 0; text-align: left;">
