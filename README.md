@@ -134,21 +134,18 @@
 
 ---
 
-### 🎯 Professional Roadmap 2025
-
-```mermaid
+### 🎯 Roadmap Profissional 2025
+mermaid
 gantt
-  title Goals for 2025
-  dateFormat  YYYY-MM-DD
-  section Specialization
-  Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
-  Technical Publication       :         des2, after des1, 90d
-  section Development
-  Automation System           :         des3, 2025-03-01, 120d
-  section Community
-  1k GitHub Followers        :         des4, 2025-07-01, 180d
-```
-
+    title Metas para 2025
+    dateFormat  YYYY-MM-DD
+    section Especialização
+    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
+    Publicação Técnica         :         des2, after des1, 90d
+    section Desenvolvimento
+    Sistema Automação          :         des3, 2025-03-01, 120d
+    section Comunidade
+    1k GitHub Followers        :         des4, 2025-07-01, 180d
 ---
 
 <details>
@@ -157,45 +154,46 @@ gantt
 <table>
   <thead>
     <tr>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Topic</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Time (h)</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Period</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Assunto</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Tempo (h)</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Período</th>
       <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Technical Reading</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
       <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 to 05/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Completed</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Concluído</td>
     </tr>
     <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Coding Practice</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
       <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 to 12/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
     </tr>
     <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Algorithm Review</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
       <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 to 10/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
     </tr>
   </tbody>
 </table>
 
 ---
 
+### 📊 Andamento do Estudo (Gráfico Customizado)
+mermaid
 gantt
-    title Study Progress
+    title Progresso dos Estudos
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
-    section Technical Reading
-    Completed           :active,    lt1, 2025-02-01, 2025-05-31
-    section Coding Practice
-    In Progress         :active,    pc1, 2025-02-01, 2025-12-31
-    section Algorithm Review
-    In Progress         :active,    ra1, 2025-02-01, 2025-10-31
-
-</details> ```
+    section Leitura Técnica
+    Concluído           :active,    lt, 2025-02-01, 2025-05-31
+    section Prática de Codificação
+    Em Andamento        :active,    pc, 2025-02-01, 2025-12-31
+    section Revisão de Algoritmos
+    Em Andamento        :active,    ra, 2025-02-01, 2025-10-31
+</details>
