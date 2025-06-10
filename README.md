@@ -187,18 +187,18 @@ gantt
 
 ---
 
-### 📊 Andamento do Estudo (Gráfico Customizado)
+### 📊 Study Progress (Custom Chart)
 
 ```mermaid
 gantt
-    title Progresso dos Estudos
+    title Study Progress
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
-    section Leitura Técnica
-    Concluido           :active,    lt, 2025-02-01, 2025-05-31
-    section Prática de Codificação
-    Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
-    section Revisão de Algoritmos
-    Em Andamento           :active,    ra, 2025-02-01, 2025-10-31
+    section Technical Reading
+    Completed           :active,    lt, 2025-02-01, 2025-05-31
+    section Coding Practice
+    In Progress           :active,    pc, 2025-02-01, 2025-12-31
+    section Algorithm Review
+    In Progress           :active,    ra, 2025-02-01, 2025-10-31
 ```
 </details>					
