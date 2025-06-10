@@ -86,26 +86,26 @@
 
 <hr>
 
-### 📌 Projetos em Destaque
+### 📌 Featured Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=blueberry&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreira&theme=blueberry&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; width: 100%;">
-  <h3 style="margin-top: 0; color: #2c3e50;">Projetos Notáveis</h3>
-  <ul>
-    <li><strong>Sistema de Automação Empresarial</strong> - Python, Flask, MySQL</li>
-    <li><strong>Plataforma de Análise de Dados</strong> - Pandas, Matplotlib, Streamlit</li>
-    <li><strong>Aplicativo Web para Gestão Financeira</strong> - React, Node.js, MongoDB</li>
-  </ul>
+<h3 style="margin-top: 0; color: #2c3e50;">Notable Projects</h3>
+<ul>
+  <li><strong>Business Automation System</strong> - Python, Flask, MySQL</li>
+  <li><strong>Data Analysis Platform</strong> - Pandas, Matplotlib, Streamlit</li>
+  <li><strong>Financial Management Web App</strong> - React, Node.js, MongoDB</li>
+</ul>
 </div>
 
 </div>
 
 ---
 
-### 📈 Estatísticas de Desenvolvimento
+### 📈 Development Statistics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
