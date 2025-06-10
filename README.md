@@ -136,7 +136,7 @@
 
 ### 🎯 Professional Roadmap 2025
 
-mermaid
+```mermaid
 gantt
   title Goals for 2025
   dateFormat  YYYY-MM-DD
@@ -147,7 +147,6 @@ gantt
   Automation System           :         des3, 2025-03-01, 120d
   section Community
   1k GitHub Followers        :         des4, 2025-07-01, 180d
-
 
 ---
 
