@@ -119,7 +119,7 @@
 
 ---
 
-### 🌐 Contato Profissional
+### 🌐 Professional Contact
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
 
@@ -127,78 +127,43 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delbler_ferreira)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@delblerferreira9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delblerferreira9@gmail.com)
-[![Beacons](https://img.shields.io/badge/Portfólio-6A52FF?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/delblerferreira)
+[![Beacons](https://img.shields.io/badge/Portfolio-6A52FF?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/delblerferreira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delblerferreira)
 
 </div>
 
 ---
 
-### 🎯 Roadmap Profissional 2025
+### 🎯 Professional Roadmap 2025
 
 ```mermaid
 gantt
-    title Metas para 2025
-    dateFormat  YYYY-MM-DD
-    section Especialização
-    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
-    Publicação Técnica         :         des2, after des1, 90d
-    section Desenvolvimento
-    Sistema Automação          :         des3, 2025-03-01, 120d
-    section Comunidade
-    1k GitHub Followers        :         des4, 2025-07-01, 180d
+  title Goals for 2025
+  dateFormat  YYYY-MM-DD
+  section Specialization
+  Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
+  Technical Publication       :         des2, after des1, 90d
+  section Development
+  Automation System           :         des3, 2025-03-01, 120d
+  section Community
+  1k GitHub Followers        :         des4, 2025-07-01, 180d
 ```
 
 ---
 
-<details>
-<summary>📚 Guia de Estudos (Clique para Expandir)</summary>
-
-<table>
-  <thead>
-    <tr>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Assunto</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Tempo (h)</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Período</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Concluido</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
-    </tr>
-  </tbody>
-</table>
+<details> <summary>📚 Study Guide (Click to Expand)</summary> <table> <thead> <tr> <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Subject</th> <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Time (h)</th> <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Period</th> <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th> </tr> </thead> <tbody> <tr> <td style="border:1px solid #4A90E2; padding:8px;">Technical Reading</td> <td style="border:1px solid #4A90E2; padding:8px;">1h</td> <td style="border:1px solid #4A90E2; padding:8px;">02/2025 to 05/2025</td> <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Completed</td> </tr> <tr> <td style="border:1px solid #4A90E2; padding:8px;">Coding Practice</td> <td style="border:1px solid #4A90E2; padding:8px;">2h</td> <td style="border:1px solid #4A90E2; padding:8px;">02/2025 to 12/2025</td> <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td> </tr> <tr> <td style="border:1px solid #4A90E2; padding:8px;">Algorithm Review</td> <td style="border:1px solid #4A90E2; padding:8px;">30min</td> <td style="border:1px solid #4A90E2; padding:8px;">02/2025 to 10/2025</td> <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td> </tr> </tbody> </table>
 
 ---
 
-### 📊 Andamento do Estudo (Gráfico Customizado)
-
-```mermaid
+📊 Study Progress (Custom Chart)
 gantt
-    title Progresso dos Estudos
-    dateFormat  YYYY-MM-DD
-    axisFormat  %m/%Y
-    section Leitura Técnica
-    Concluido           :active,    lt, 2025-02-01, 2025-05-31
-    section Prática de Codificação
-    Em Andamento           :active,    pc, 2025-02-01, 2025-12-31
-    section Revisão de Algoritmos
-    Em Andamento           :active,    ra, 2025-02-01, 2025-10-31
-```
-</details>
+  title Study Progress
+  dateFormat  YYYY-MM-DD
+  axisFormat  %m/%Y
+  section Technical Reading
+  Completed           :active,    lt, 2025-02-01, 2025-05-31
+  section Coding Practice
+  In Progress           :active,    pc, 2025-02-01, 2025-12-31
+  section Algorithm Review
+  In Progress           :active,    ra, 2025-02-01, 2025-10-31
+</details> ```
