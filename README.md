@@ -142,7 +142,7 @@ gantt
     dateFormat  YYYY-MM-DD
     section Especialização
     Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
-    Publicação Técnica         :         des2, after des1, 90d
+    Technical Publication         :         des2, after des1, 90d
     section Desenvolvimento
     Sistema Automação          :         des3, 2025-03-01, 120d
     section Comunidade
