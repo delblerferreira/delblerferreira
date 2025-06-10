@@ -152,35 +152,35 @@ gantt
 ---
 
 <details>
-<summary>📚 Guia de Estudos (Clique para Expandir)</summary>
+<summary>📚 Study Guide (Click to Expand)</summary>
 
 <table>
   <thead>
     <tr>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Assunto</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Tempo (h)</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Período</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Subject</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Time (h)</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Period</th>
       <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Leitura Técnica</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Technical Reading</td>
       <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Concluido</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Completed</td>
     </tr>
     <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Prática de Codificação</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Coding Practice</td>
       <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
     </tr>
     <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Revisão de Algoritmos</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">Algorithm Review</td>
       <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
       <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Em Andamento</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
     </tr>
   </tbody>
 </table>
