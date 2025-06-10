@@ -188,13 +188,14 @@ gantt
 ---
 
 gantt
-  title Study Progress
-  dateFormat  YYYY-MM-DD
-  axisFormat  %m/%Y
-  section Technical Reading
-  Completed           :active,    lt, 2025-02-01, 2025-05-31
-  section Coding Practice
-  In Progress         :active,    pc, 2025-02-01, 2025-12-31
-  section Algorithm Review
-  In Progress         :active,    ra, 2025-02-01, 2025-10-31
+    title Study Progress
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%Y
+    section Technical Reading
+    Completed           :active,    lt1, 2025-02-01, 2025-05-31
+    section Coding Practice
+    In Progress         :active,    pc1, 2025-02-01, 2025-12-31
+    section Algorithm Review
+    In Progress         :active,    ra1, 2025-02-01, 2025-10-31
+
 </details> ```
