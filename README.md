@@ -138,14 +138,14 @@
 
 ```mermaid
 gantt
-    title Metas para 2025
+    title Goals for 2025
     dateFormat  YYYY-MM-DD
-    section Especialização
+    section Specialization
     Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
     Technical Publication         :         des2, after des1, 90d
-    section Desenvolvimento
-    Sistema Automação          :         des3, 2025-03-01, 120d
-    section Comunidade
+    section Development
+    Automation System          :         des3, 2025-03-01, 120d
+    section Community
     1k GitHub Followers        :         des4, 2025-07-01, 180d
 ```
 
