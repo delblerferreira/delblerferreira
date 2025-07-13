@@ -26,7 +26,7 @@
   </h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineering <em>(In Progress)</em></li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 <li>Engenheiro de Produção</li>
     <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
     <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
   </ul>
