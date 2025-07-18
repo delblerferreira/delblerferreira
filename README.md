@@ -34,19 +34,24 @@
   </ul>
 </div>
 
- gantt
+---
+
+### 🎓 Formação Acadêmica (Roadmap)
+
+```mermaid
+gantt
     title Formação Acadêmica
     dateFormat  YYYY-MM-DD
     axisFormat  %b/%Y
 
     section Engenharia de Materiais
-    Início e Término         :active, materiais, 2025-06-01, 2028-06-30
+    Curso em andamento       :active, materiais, 2025-06-01, 2028-06-30
 
     section Engenharia Mecânica
-    Início e Término         :active, mecanica, 2023-01-01, 2028-02-28
+    Curso em andamento       :active, mecanica, 2023-01-01, 2028-02-28
 
     section Engenharia de Software
-    Início e Término         :active, software, 2025-03-01, 2028-04-30
+    Curso em andamento       :active, software, 2025-03-01, 2028-04-30
     
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
