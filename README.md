@@ -43,9 +43,8 @@
 
 ```mermaid
 gantt
+    title Academic Background
     dateFormat  YYYY-MM-DD
-    axisFormat  %b/%Y
-
     section Materials Engineering
     Start and End Dates       :active, materials, 2025-06-06, 2028-06-06
 
