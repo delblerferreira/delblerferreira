@@ -63,13 +63,6 @@ gantt
 
     section Software Engineering
     Start and End Dates        :active, software, 2025-03-10, 2028-04-10
-
-    %% Optional styling for purple and dark gray
-    classDef purple fill:#800080,stroke:#fff,stroke-width:1px
-    classDef darkgray fill:#2e2e2e,stroke:#fff,stroke-width:1px
-
-    class materials,software purple
-    class mechanical darkgray
 ```
 
 ---
