@@ -62,7 +62,6 @@
 </div>
 
 </div>
-
 <hr>
 <h3 style="text-align: left;">🛠️ Complete Tech Stack</h3>
 
@@ -144,20 +143,71 @@
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎯 Roadmap Profissional 2025
 
 ```mermaid
 gantt
-    title Formação Acadêmica
+    title Goals for 2025
     dateFormat  YYYY-MM-DD
-    axisFormat  %b/%Y
+    section Specialization
+    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
+    Technical Publication         :         des2, after des1, 90d
+    section Development
+    Automation System          :         des3, 2025-03-01, 120d
+    section Community
+    1k GitHub Followers        :         des4, 2025-07-01, 180d
+```
 
-    section Engenharia de Materiais
-    Curso em andamento       :active, materiais, 2025-06-01, 2028-06-30
+---
 
-    section Engenharia Mecânica
-    Curso em andamento       :active, mecanica, 2023-01-01, 2028-02-28
+<details>
+<summary>📚 Study Guide (Click to Expand)</summary>
 
-    section Engenharia de Software
-    Curso em andamento       :active, software, 2025-03-01, 2028-04-30
+<table>
+  <thead>
+    <tr>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Subject</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Time (h)</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Period</th>
+      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #4A90E2; padding:8px;">Technical Reading</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Completed</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #4A90E2; padding:8px;">Coding Practice</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #4A90E2; padding:8px;">Algorithm Review</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
+    </tr>
+  </tbody>
+</table>
 
+---
+
+### 📊 Study Progress (Custom Chart)
+
+```mermaid
+gantt
+    title Study Progress
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%Y
+    section Technical Reading
+    Completed           :active,    lt, 2025-02-01, 2025-05-31
+    section Coding Practice
+    In Progress           :active,    pc, 2025-02-01, 2025-12-31
+    section Algorithm Review
+    In Progress           :active,    ra, 2025-02-01, 2025-10-31
+```
+</details>
