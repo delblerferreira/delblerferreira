@@ -39,19 +39,22 @@
   </ul>
 </div>
 
-### 🎯 Roadmap Profissional 2025
+### 🎓 Formação Acadêmica
 
 ```mermaid
 gantt
-    title Goals for 2025
+    title Formação Acadêmica
     dateFormat  YYYY-MM-DD
-    section Specialization
-    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
-    Technical Publication         :         des2, after des1, 90d
-    section Development
-    Automation System          :         des3, 2025-03-01, 120d
-    section Community
-    1k GitHub Followers        :         des4, 2025-07-01, 180d
+    axisFormat  %b/%Y
+
+    section Engenharia de Materiais
+    Início e Término         :active, materiais, 2025-06-01, 2028-06-30
+
+    section Engenharia Mecânica
+    Início e Término         :active, mecanica, 2023-01-01, 2028-02-28
+
+    section Engenharia de Software
+    Início e Término         :active, software, 2025-03-01, 2028-04-30
 ```
 
 ---
