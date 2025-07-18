@@ -32,7 +32,7 @@
   </h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Engenheiro de Produção</li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
     <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
     <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
   </ul>
@@ -44,7 +44,7 @@
   </h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 10px; text-align: left;">📊 Freelance Financial Administrator</li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Engenheiro de Produção</li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
     <li style="text-align: left;">💡 Focus: Process Automation, Data Analysis, Tech-Driven Solutions</li>
   </ul>
 </div>
