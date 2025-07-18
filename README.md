@@ -15,8 +15,14 @@
 
 <hr>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <h2>🚀 Professional Portfolio</h2>
+  <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/bef3f7c4-27c2-42a1-a709-dafbd1bfb1a7/image.png" 
+         width="150" height="150" alt="Credly Badge"/>
+  </a>
+</div>
 
-<h2 style="text-align: center;">🚀 Professional Portfolio</h2>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
