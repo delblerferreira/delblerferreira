@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" width="150" />
+  <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/bef3f7c4-27c2-42a1-a709-dafbd1bfb1a7/image.png" width="150" />
+  </a>
+</p>
+
+
+
 <div style="text-align: center;">
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
