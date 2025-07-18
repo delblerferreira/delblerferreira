@@ -49,10 +49,10 @@ gantt
     Start and End Dates       :active, materials, 2025-06-06, 2028-06-06
 
     section Mechanical Engineering
-    Start and End Dates       :active, mechanical, 2023-01-06, 2028-02-06
+    Start and End Dates       :mechanical, 2023-01-06, 2028-02-06
 
     section Software Engineering
-    Start and End Dates       :active, software, 2025-03-10, 2028-04-10
+    Start and End Dates       :software, 2025-03-10, 2028-04-10
 ```
 
 ---
