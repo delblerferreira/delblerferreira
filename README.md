@@ -22,32 +22,72 @@
   </div>
 
   <hr>
-</div>
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
 
-<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
-    <span>🎓</span> Academic Background
-  </h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
-    <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
-    <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
-  </ul>
+  <!-- Academic Background -->
+  <div style="flex: 1; min-width: 300px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      🎓 Academic Background
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 16px;">
+        🔬 <strong>Materials Engineering</strong> – UniÚnica <br>
+        <small>Jun 2025 – Jun 2028</small>
+        <div style="height: 6px; background: #dfefff; border-radius: 5px; overflow: hidden; margin-top: 4px;">
+          <div style="width: 0%; background: #4A90E2; height: 100%; animation: bar1 3s forwards;"></div>
+        </div>
+      </li>
+      <li style="margin-bottom: 16px;">
+        ⚙️ <strong>Mechanical Engineering</strong> – UniÚnica <br>
+        <small>In Progress</small>
+        <div style="height: 6px; background: #dfefff; border-radius: 5px; overflow: hidden; margin-top: 4px;">
+          <div style="width: 0%; background: #4A90E2; height: 100%; animation: bar2 3s forwards;"></div>
+        </div>
+      </li>
+      <li style="margin-bottom: 16px;">
+        👨‍💻 <strong>Software Engineering</strong> – UniCesumar <br>
+        <small>Mar 2025 – Apr 2028</small>
+        <div style="height: 6px; background: #dfefff; border-radius: 5px; overflow: hidden; margin-top: 4px;">
+          <div style="width: 0%; background: #4A90E2; height: 100%; animation: bar3 3s forwards;"></div>
+        </div>
+      </li>
+      <li>
+        🏭 <strong>Production Engineering</strong> <br>
+        <small>Completed</small>
+        <div style="height: 6px; background: #dfefff; border-radius: 5px; overflow: hidden; margin-top: 4px;">
+          <div style="width: 100%; background: #4A90E2; height: 100%;"></div>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Experience & Focus -->
+  <div style="flex: 1; min-width: 300px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+      💼 Experience & Focus
+    </h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 12px;">📊 <strong>Freelance Financial Administrator</strong></li>
+      <li style="margin-bottom: 12px;">🏭 <strong>Production Engineer</strong></li>
+      <li>💡 <strong>Focus:</strong> Process Automation, Data Analysis, Tech-Driven Solutions</li>
+    </ul>
+  </div>
+
 </div>
 
-<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
-    <span>💼</span> Experience & Focus
-  </h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">📊 Freelance Financial Administrator</li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
-    <li style="text-align: left;">💡 Focus: Process Automation, Data Analysis, Tech-Driven Solutions</li>
-  </ul>
-</div>
+<!-- Animation CSS -->
+<style>
+@keyframes bar1 {
+  to { width: 30%; }
+}
+@keyframes bar2 {
+  to { width: 40%; }
+}
+@keyframes bar3 {
+  to { width: 25%; }
+}
+</style>
+
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
