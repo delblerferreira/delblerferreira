@@ -39,6 +39,9 @@
   </ul>
 </div>
 
+### 🎓 Formação Acadêmica
+
+```mermaid
 gantt
     title Formação Acadêmica
     dateFormat  YYYY-MM-DD
