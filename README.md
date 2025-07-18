@@ -42,7 +42,6 @@
 ### 🎓 Academic Background
 
 ```mermaid
-%%{ init : { "theme": "dark" } }%%
 gantt
     title Academic Background
     dateFormat  YYYY-MM-DD
