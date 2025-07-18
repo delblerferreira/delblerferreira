@@ -43,7 +43,6 @@
 
 ```mermaid
 gantt
-     title Academic Background
     dateFormat  YYYY-MM-DD
     axisFormat  %b/%Y
 
