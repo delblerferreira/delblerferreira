@@ -39,6 +39,23 @@
   </ul>
 </div>
 
+### 🎯 Roadmap Profissional 2025
+
+```mermaid
+gantt
+    title Goals for 2025
+    dateFormat  YYYY-MM-DD
+    section Specialization
+    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
+    Technical Publication         :         des2, after des1, 90d
+    section Development
+    Automation System          :         des3, 2025-03-01, 120d
+    section Community
+    1k GitHub Followers        :         des4, 2025-07-01, 180d
+```
+
+---
+
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
     <span>💼</span> Experience & Focus
