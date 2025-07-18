@@ -47,13 +47,13 @@ gantt
     axisFormat  %b/%Y
 
     section Materials Engineering
-    Start and End Dates       :active, materials, 2025-06-01, 2028-06-30
+    Start and End Dates       :active, materials, 2025-06-2, 2028-06-30
 
     section Mechanical Engineering
-    Start and End Dates       :active, mechanical, 2023-01-01, 2028-02-28
+    Start and End Dates       :active, mechanical, 2023-02-06, 2028-02-28
 
     section Software Engineering
-    Start and End Dates       :active, software, 2025-03-01, 2028-04-30
+    Start and End Dates       :active, software, 2025-02-01, 2028-04-30
 ```
 
 ---
