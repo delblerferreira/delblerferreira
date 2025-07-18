@@ -42,17 +42,18 @@
 ### 🎓 Academic Background
 
 ```mermaid
+%%{ init : { "theme": "dark" } }%%
 gantt
     title Academic Background
     dateFormat  YYYY-MM-DD
 
     section Year Markers
-    01/01/2023                 :milestone, ym2023, 2023-01-01, 1d
-    01/01/2024                 :milestone, ym2024, 2024-01-01, 1d
-    01/01/2025                 :milestone, ym2025, 2025-01-01, 1d
-    01/01/2026                 :milestone, ym2026, 2026-01-01, 1d
-    01/01/2027                 :milestone, ym2027, 2027-01-01, 1d
-    01/01/2028                 :milestone, ym2028, 2028-01-01, 1d
+    06/01/2023                 :milestone, ym2023, 2023-01-06, 1d
+    06/01/2024                 :milestone, ym2024, 2024-01-06, 1d
+    06/01/2025                 :milestone, ym2025, 2025-01-06, 1d
+    06/01/2026                 :milestone, ym2026, 2026-01-06, 1d
+    06/01/2027                 :milestone, ym2027, 2027-01-06, 1d
+    06/01/2028                 :milestone, ym2028, 2028-01-06, 1d
 
     section Materials Engineering
     Start and End Dates        :active, materials, 2025-06-06, 2028-06-06
@@ -62,6 +63,13 @@ gantt
 
     section Software Engineering
     Start and End Dates        :active, software, 2025-03-10, 2028-04-10
+
+    %% Optional styling for purple and dark gray
+    classDef purple fill:#800080,stroke:#fff,stroke-width:1px
+    classDef darkgray fill:#2e2e2e,stroke:#fff,stroke-width:1px
+
+    class materials,software purple
+    class mechanical darkgray
 ```
 
 ---
