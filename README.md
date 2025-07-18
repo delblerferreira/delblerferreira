@@ -39,38 +39,20 @@
   </ul>
 </div>
 
-### 🎯 Roadmap Profissional 2025
-
-```mermaid
-gantt
-    title Goals for 2025
-    dateFormat  YYYY-MM-DD
-    section Specialization
-    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
-    Technical Publication         :         des2, after des1, 90d
-    section Development
-    Automation System          :         des3, 2025-03-01, 120d
-    section Community
-    1k GitHub Followers        :         des4, 2025-07-01, 180d
-```
-
----
-
 ### 🎓 Academic Background
 
 ```mermaid
 gantt
+    title Academic Background
     dateFormat  YYYY-MM-DD
-    axisFormat  %b/%Y
-
     section Materials Engineering
     Start and End Dates       :active, materials, 2025-06-06, 2028-06-06
 
     section Mechanical Engineering
-    Start and End Dates       :                  2023-01-06, 2028-02-06
+    Start and End Dates       :active, mechanical, 2023-01-06, 2028-02-06
 
     section Software Engineering
-    Start and End Dates       :                  2025-03-10, 2028-04-10
+    Start and End Dates       :active, software, 2025-03-10, 2028-04-10
 ```
 
 ---
