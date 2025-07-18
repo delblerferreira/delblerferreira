@@ -1,3 +1,4 @@
+
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
@@ -17,30 +18,26 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
     <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="[https://images.credly.com/size/150x150/images/c3f1d820-5203-4e92-a98a-6079707563cb/image.png](https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob)" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
+      <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
     </a>
   </div>
 
   <hr>
 </div>
 
-### 🎓 Formação Acadêmica
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
 
-```mermaid
-gantt
-    title Formação Acadêmica
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b/%Y
-
-    section Engenharia de Materiais
-    Curso em andamento       :active, materiais, 2025-06-01, 2028-06-30
-
-    section Engenharia Mecânica
-    Curso em andamento       :active, mecanica, 2023-01-01, 2028-02-28
-
-    section Engenharia de Software
-    Curso em andamento       :active, software, 2025-03-01, 2028-04-30
-
+<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+    <span>🎓</span> Academic Background
+  </h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
+    <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
+    <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
+  </ul>
+</div>
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
@@ -65,6 +62,7 @@ gantt
 </div>
 
 </div>
+
 <hr>
 <h3 style="text-align: left;">🛠️ Complete Tech Stack</h3>
 
@@ -146,71 +144,20 @@ gantt
 
 ---
 
-### 🎯 Roadmap Profissional 2025
+### 🎓 Formação Acadêmica
 
 ```mermaid
 gantt
-    title Goals for 2025
+    title Formação Acadêmica
     dateFormat  YYYY-MM-DD
-    section Specialization
-    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
-    Technical Publication         :         des2, after des1, 90d
-    section Development
-    Automation System          :         des3, 2025-03-01, 120d
-    section Community
-    1k GitHub Followers        :         des4, 2025-07-01, 180d
-```
+    axisFormat  %b/%Y
 
----
+    section Engenharia de Materiais
+    Curso em andamento       :active, materiais, 2025-06-01, 2028-06-30
 
-<details>
-<summary>📚 Study Guide (Click to Expand)</summary>
+    section Engenharia Mecânica
+    Curso em andamento       :active, mecanica, 2023-01-01, 2028-02-28
 
-<table>
-  <thead>
-    <tr>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Subject</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Time (h)</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Period</th>
-      <th style="background-color:#4A90E2; color:white; padding:8px; border:1px solid #4A90E2;">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Technical Reading</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Completed</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Coding Practice</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #4A90E2; padding:8px;">Algorithm Review</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
-      <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
-    </tr>
-  </tbody>
-</table>
+    section Engenharia de Software
+    Curso em andamento       :active, software, 2025-03-01, 2028-04-30
 
----
-
-### 📊 Study Progress (Custom Chart)
-
-```mermaid
-gantt
-    title Study Progress
-    dateFormat  YYYY-MM-DD
-    axisFormat  %m/%Y
-    section Technical Reading
-    Completed           :active,    lt, 2025-02-01, 2025-05-31
-    section Coding Practice
-    In Progress           :active,    pc, 2025-02-01, 2025-12-31
-    section Algorithm Review
-    In Progress           :active,    ra, 2025-02-01, 2025-10-31
-```
-</details>
