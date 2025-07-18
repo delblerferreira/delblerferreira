@@ -22,21 +22,9 @@
   </div>
 
   <hr>
-<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
-    <span>🎓</span> Academic Background
-  </h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
-    <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
-    <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
-  </ul>
 </div>
 
----
-
-### 🎓 Formação Acadêmica (Roadmap)
+### 🎓 Formação Acadêmica
 
 ```mermaid
 gantt
@@ -52,7 +40,8 @@ gantt
 
     section Engenharia de Software
     Curso em andamento       :active, software, 2025-03-01, 2028-04-30
-    
+
+
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
     <span>💼</span> Experience & Focus
