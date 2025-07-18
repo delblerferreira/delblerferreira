@@ -39,22 +39,22 @@
   </ul>
 </div>
 
-### 🎓 Formação Acadêmica
+### 🎓 Academic Background
 
 ```mermaid
 gantt
-    title Formação Acadêmica
+     title Academic Background
     dateFormat  YYYY-MM-DD
     axisFormat  %b/%Y
 
-    section Engenharia de Materiais
-    Início e Término         :active, materiais, 2025-06-01, 2028-06-30
+    section Materials Engineering
+    Start and End Dates       :active, materials, 2025-06-01, 2028-06-30
 
-    section Engenharia Mecânica
-    Início e Término         :active, mecanica, 2023-01-01, 2028-02-28
+    section Mechanical Engineering
+    Start and End Dates       :active, mechanical, 2023-01-01, 2028-02-28
 
-    section Engenharia de Software
-    Início e Término         :active, software, 2025-03-01, 2028-04-30
+    section Software Engineering
+    Start and End Dates       :active, software, 2025-03-01, 2028-04-30
 ```
 
 ---
