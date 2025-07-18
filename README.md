@@ -45,14 +45,23 @@
 gantt
     title Academic Background
     dateFormat  YYYY-MM-DD
+
+    section Year Markers
+    01/01/2023                 :milestone, ym2023, 2023-01-01, 1d
+    01/01/2024                 :milestone, ym2024, 2024-01-01, 1d
+    01/01/2025                 :milestone, ym2025, 2025-01-01, 1d
+    01/01/2026                 :milestone, ym2026, 2026-01-01, 1d
+    01/01/2027                 :milestone, ym2027, 2027-01-01, 1d
+    01/01/2028                 :milestone, ym2028, 2028-01-01, 1d
+
     section Materials Engineering
-    Start and End Dates       :active, materials, 2025-06-06, 2028-06-06
+    Start and End Dates        :active, materials, 2025-06-06, 2028-06-06
 
     section Mechanical Engineering
-    Start and End Dates       :mechanical, 2023-01-06, 2028-02-06
+    Start and End Dates        :active, mechanical, 2023-01-06, 2028-02-06
 
     section Software Engineering
-    Start and End Dates       :software, 2025-03-10, 2028-04-10
+    Start and End Dates        :active, software, 2025-03-10, 2028-04-10
 ```
 
 ---
