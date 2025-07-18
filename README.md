@@ -22,26 +22,17 @@
   </div>
 
   <hr>
+<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+    <span>🎓</span> Academic Background
+  </h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
+    <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
+    <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
+  </ul>
 </div>
-
-## 🎓 Academic Background
-
-![Progress Chart](https://quickchart.io/chart?c={
-  type:'bar',
-  data:{
-    labels:['Materials Eng','Mechanical Eng','Software Eng','Production Eng'],
-    datasets:[{
-      label:'Progress (%)',
-      data:[30, 70, 60, 100],
-      backgroundColor:['#4A90E2','#4A90E2','#4A90E2','#4A90E2']
-    }]
-  },
-  options:{
-    scales:{
-      yAxes:[{ticks:{beginAtZero:true, max:100}}]
-    }
-  }
-})
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
