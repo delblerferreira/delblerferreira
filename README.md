@@ -22,75 +22,32 @@
   </div>
 
   <hr>
-<div style="font-family: Arial, sans-serif; max-width: 700px; margin: 20px auto; color: #2c3e50;">
-
-  <h2>🎓 Academic Background</h2>
-  <ul style="list-style:none; padding:0;">
-    <li style="margin-bottom: 20px;">
-      <strong>Materials Engineering</strong><br>
-      <small>Jun 2025 – Jun 2028</small>
-      <div style="background: #dfefff; border-radius: 5px; height: 10px; overflow: hidden; margin-top: 6px;">
-        <div class="progress-bar" style="background:#4A90E2; height: 100%; width: 0;"></div>
-      </div>
-    </li>
-    <li style="margin-bottom: 20px;">
-      <strong>Mechanical Engineering</strong><br>
-      <small>In Progress</small>
-      <div style="background: #dfefff; border-radius: 5px; height: 10px; overflow: hidden; margin-top: 6px;">
-        <div class="progress-bar" style="background:#4A90E2; height: 100%; width: 0;"></div>
-      </div>
-    </li>
-    <li style="margin-bottom: 20px;">
-      <strong>Software Engineering</strong><br>
-      <small>Mar 2025 – Apr 2028</small>
-      <div style="background: #dfefff; border-radius: 5px; height: 10px; overflow: hidden; margin-top: 6px;">
-        <div class="progress-bar" style="background:#4A90E2; height: 100%; width: 0;"></div>
-      </div>
-    </li>
-    <li>
-      <strong>Production Engineering</strong><br>
-      <small>Completed</small>
-      <div style="background: #dfefff; border-radius: 5px; height: 10px; overflow: hidden; margin-top: 6px;">
-        <div class="progress-bar" style="background:#4A90E2; height: 100%; width: 100%;"></div>
-      </div>
-    </li>
-  </ul>
-
-  <h2>💼 Experience & Focus</h2>
-  <ul>
-    <li>📊 Freelance Financial Administrator</li>
-    <li>🏭 Production Engineer</li>
-    <li>💡 Focus: Process Automation, Data Analysis, Tech-Driven Solutions</li>
-  </ul>
-
 </div>
 
-<script>
-  function progressPercentage(start, end) {
-    const parseDate = str => {
-      const [monthStr, year] = str.split(' ');
-      const months = {Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11};
-      return new Date(parseInt(year), months[monthStr], 1);
-    }
-    const now = new Date();
-    const startDate = parseDate(start);
-    const endDate = parseDate(end);
-    if (now < startDate) return 0;
-    if (now > endDate) return 100;
-    return ((now - startDate) / (endDate - startDate)) * 100;
-  }
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
 
-  const courses = [
-    { start: 'Jun 2025', end: 'Jun 2028' }, // Materials Engineering
-    { start: 'Mar 2025', end: 'Apr 2028' }, // Software Engineering
-  ];
+<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+    <span>🎓</span> Academic Background
+  </h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
+    <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
+    <li style="text-align: left;">🔬 Materials Engineering <em>(In Progress)</em></li>
+  </ul>
+</div>
 
-  const bars = document.querySelectorAll('.progress-bar');
-  bars[0].style.width = progressPercentage(courses[0].start, courses[0].end) + '%';
-  bars[1].style.width = '40%'; // Mechanical Engineering (In Progress), valor fixo
-  bars[2].style.width = progressPercentage(courses[1].start, courses[1].end) + '%';
-  bars[3].style.width = '100%'; // Production Engineering (Completed)
-</script>
+<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+    <span>💼</span> Experience & Focus
+  </h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 10px; text-align: left;">📊 Freelance Financial Administrator</li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
+    <li style="text-align: left;">💡 Focus: Process Automation, Data Analysis, Tech-Driven Solutions</li>
+  </ul>
+</div>
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
