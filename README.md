@@ -17,7 +17,7 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
     <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="[https://images.credly.com/size/150x150/images/c3f1d820-5203-4e92-a98a-6079707563cb/image.png](https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob)" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/>
+      <img src="[https://images.credly.com/size/150x150/images/c3f1d820-5203-4e92-a98a-6079707563cb/image.png](https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob)" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
     </a>
   </div>
 
