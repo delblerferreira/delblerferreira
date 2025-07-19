@@ -33,12 +33,12 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section Year Markers
-    06/01/2023                 :milestone, ym2023, 2023,
-    06/01/2024                 :milestone, ym2024, 2024,
-    06/01/2025                 :milestone, ym2025, 2025,
-    06/01/2026                 :milestone, ym2026, 2026,
-    06/01/2027                 :milestone, ym2027, 2027,
-    06/01/2028                 :milestone, ym2028, 2028,
+    06/01/2023                 :milestone, ym2023, 2023,year
+    06/01/2024                 :milestone, ym2024, 2024,year
+    06/01/2025                 :milestone, ym2025, 2025,year
+    06/01/2026                 :milestone, ym2026, 2026,year
+    06/01/2027                 :milestone, ym2027, 2027,year
+    06/01/2028                 :milestone, ym2028, 2028,year
 
     section Materials Engineering
     Start and End Dates        :active, materials, 2025-06-06, 2028-06-06
