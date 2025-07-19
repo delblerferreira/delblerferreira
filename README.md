@@ -30,7 +30,6 @@
 
 ```mermaid
 gantt
-    title Academic Background
     dateFormat  YYYY-MM-DD
 
     section Year Markers
