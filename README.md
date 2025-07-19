@@ -1,15 +1,17 @@
-<div style="text-align: center;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="https://i.imgur.com/fVNIwhb.png" 
-         width="150" 
-         height="150" 
-         style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
-           alt="Typing SVG" style="margin: 0 auto;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
-           alt="Typing SVG" style="margin: 0 auto;">
-    </div>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; margin: 40px 0;">
+  <!-- Imagem com bordas arredondadas -->
+  <img src="https://i.imgur.com/fVNIwhb.png" 
+       width="180" 
+       height="180" 
+       style="border-radius: 25px; border: 3px solid #0077B6; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" 
+       alt="Quantum 8G Image"/>
+
+  <!-- Texto animado -->
+  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 15px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=false&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
+         alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=false&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
+         alt="Typing SVG">
   </div>
 </div>
 
