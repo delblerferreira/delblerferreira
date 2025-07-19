@@ -1,17 +1,20 @@
 
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="[https://i.postimg.cc/LXRTBZXB/8G-Rede.png](https://www.canva.com/design/DAGtkTBUjoQ/2arMmLyE1OLowXrwDKr8_g/view?utm_content=DAGtkTBUjoQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha4fa66befc)" 
+    <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
          width="150" 
          height="150" 
-         style="border-radius: 15px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
+         style="border-radius: 15px; border: 3px solid #0077B6; margin: 0 auto; display: block;" />
+    
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
            alt="Typing SVG" style="margin: 0 auto;">
+      
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
            alt="Typing SVG" style="margin: 0 auto;">
     </div>
   </div>
+</div>
 
   <hr>
 
