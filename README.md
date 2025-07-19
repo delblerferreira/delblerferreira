@@ -1,7 +1,7 @@
 
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
+    <img src="[https://i.postimg.cc/LXRTBZXB/8G-Rede.png](https://www.canva.com/design/DAGtkTBUjoQ/2arMmLyE1OLowXrwDKr8_g/view?utm_content=DAGtkTBUjoQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha4fa66befc)" 
          width="150" 
          height="150" 
          style="border-radius: 15px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
