@@ -33,21 +33,23 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
 
+    title 🎓 Academic Background
+
+    section Materiais
+    Engenharia de Materiais     :active, materials, 2025-06-06, 2028-06-06
+
+    section Mecânica
+    Engenharia Mecânica         :active, mechanical, 2023-01-06, 2028-02-06
+
+    section Software
+    Engenharia de Software      :active, software, 2025-03-10, 2028-04-10
+
     section Anos Acadêmicos
-    1º Ano (2023–2024)         :milestone, a1, 2023-06-01, 1d
-    2º Ano (2024–2025)         :milestone, a2, 2024-06-01, 1d
-    3º Ano (2025–2026)         :milestone, a3, 2025-06-01, 1d
-    4º Ano (2026–2027)         :milestone, a4, 2026-06-01, 1d
-    5º Ano (2027–2028)         :milestone, a5, 2027-06-01, 1d
-
-    section Materials Engineering
-    Materiais                  :active, materials, 2025-06-06, 2028-06-06
-
-    section Mechanical Engineering
-    Mecânica                   :active, mechanical, 2023-01-06, 2028-02-06
-
-    section Software Engineering
-    Software                   :active, software, 2025-03-10, 2028-04-10
+    1º Ano                      :a1, 2023-06-01, 1y
+    2º Ano                      :a2, 2024-06-01, 1y
+    3º Ano                      :a3, 2025-06-01, 1y
+    4º Ano                      :a4, 2026-06-01, 1y
+    5º Ano                      :a5, 2027-06-01, 1y
 ```
 
 ---
