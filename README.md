@@ -31,6 +31,7 @@
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
+    axisFormat  ""
 
     section Year Markers
     06/01/2023                 :milestone, ym2023, 2023,year
