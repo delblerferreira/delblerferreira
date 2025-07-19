@@ -35,21 +35,21 @@ gantt
 
     title 🎓 Academic Background
 
-    section Engenharia Mecânica
-    Mecânica                   :active, mechanical, 2023-01-06, 2028-02-06
+    section Academic Years
+    1st Year (2023–2024)        :a1, 2023-06-01, 2024-06-01
+    2nd Year (2024–2025)        :a2, 2024-06-01, 2025-06-01
+    3rd Year (2025–2026)        :a3, 2025-06-01, 2026-06-01
+    4th Year (2026–2027)        :a4, 2026-06-01, 2027-06-01
+    5th Year (2027–2028)        :a5, 2027-06-01, 2028-06-01
 
-    section Engenharia de Materiais
-    Materiais                  :active, materials, 2025-06-06, 2028-06-06
+    section Materials Engineering
+    Materials Engineering       :active, materials, 2025-06-06, 2028-06-06
 
-    section Engenharia de Software
-    Software                   :active, software, 2025-03-10, 2028-04-10
+    section Mechanical Engineering
+    Mechanical Engineering      :active, mechanical, 2023-01-06, 2028-02-06
 
-    section Anos Acadêmicos
-    1º Ano (2023–2024)         :a1, 2023-06-01, 2024-06-01
-    2º Ano (2024–2025)         :a2, 2024-06-01, 2025-06-01
-    3º Ano (2025–2026)         :a3, 2025-06-01, 2026-06-01
-    4º Ano (2026–2027)         :a4, 2026-06-01, 2027-06-01
-    5º Ano (2027–2028)         :a5, 2027-06-01, 2028-06-01
+    section Software Engineering
+    Software Engineering        :active, software, 2025-03-10, 2028-04-10
 ```
 
 ---
