@@ -1,12 +1,3 @@
-## 📽️ Demonstração do Projeto
-
-[🔗 Assista ao vídeo no Canva](https://www.canva.com/design/DAGtpnoFImU/TLGDDlKQmNUGkKFCPg4H1A/watch?utm_content=DAGtpnoFImU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he024a44eea)
-
-
-
-
-
-
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <img src="https://i.imgur.com/fVNIwhb.png" 
