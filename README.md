@@ -7,11 +7,13 @@
        alt="Quantum 8G Image"/>
 
   <!-- Texto animado -->
-  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 15px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=false&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
-         alt="Typing SVG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=false&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
-         alt="Typing SVG">
+  style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
+           alt="Typing SVG" style="margin: 0 auto;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
+           alt="Typing SVG" style="margin: 0 auto;">
+    </div>
   </div>
 </div>
 
