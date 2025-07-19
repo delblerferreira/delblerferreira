@@ -1,6 +1,6 @@
 ## 📽️ Demonstração do Projeto
 
-[🔗 Assista ao vídeo no Canva](https://www.canva.com/design/DAGtkTBUjoQ/KHfS3Pu5ALK5_uYlGVRcWg/view?utm_content=DAGtkTBUjoQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+[🔗 Assista ao vídeo no Canva](https://www.canva.com/design/DAGtpnoFImU/TLGDDlKQmNUGkKFCPg4H1A/watch?utm_content=DAGtpnoFImU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he024a44eea)
 
 
 
