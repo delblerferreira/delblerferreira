@@ -33,7 +33,6 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
 
-    title 🎓 Academic Background
 
     section Academic Years
     1st Year (2023–2024)        :a1, 2023-06-01, 2024-06-01
