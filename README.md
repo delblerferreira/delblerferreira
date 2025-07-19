@@ -34,7 +34,7 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section Year Markers
-    06/01/2023                 :milestone, ym2023, 2023-01-06, 1d
+    06/01/2023                 :milestone, ym2023, 
     06/01/2024                 :milestone, ym2024, 2024-01-06, 1d
     06/01/2025                 :milestone, ym2025, 2025-01-06, 1d
     06/01/2026                 :milestone, ym2026, 2026-01-06, 1d
