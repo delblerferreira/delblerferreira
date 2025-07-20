@@ -1,21 +1,16 @@
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" alt="American Flag" width="100" style="border-radius: 50px; border: 3px solid #0077B6;">
-  <span style="font-size: 18px; font-weight: bold;">
-    <span style="color: #b22234;">U</span>
-    <span style="color: #ffffff; background-color: black;">n</span>
-    <span style="color: #3c3b6e;">i</span>
-    <span style="color: #b22234;">t</span>
-    <span style="color: #ffffff; background-color: black;">e</span>
-    <span style="color: #3c3b6e;">d</span>
-    <span style="color: #b22234;">&nbsp;</span>
-    <span style="color: #ffffff; background-color: black;">S</span>
-    <span style="color: #3c3b6e;">t</span>
-    <span style="color: #b22234;">a</span>
-    <span style="color: #ffffff; background-color: black;">t</span>
-    <span style="color: #3c3b6e;">e</span>
-    <span style="color: #b22234;">s</span>
-  </span>
+<!-- Bandeira americana alinhada à esquerda -->
+<p align="left" style="margin-bottom: 10px;">
+  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
+       alt="American Flag" 
+       width="100" 
+       style="border-radius: 50px; border: 3px solid #0077B6;">
 </p>
+
+<!-- Letreiro animado centralizado -->
+<div style="max-width: 400px; margin: 0 auto; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; gap: 2mm; justify-content: center;">
+  <span style="font-size: 28px; font-weight: bold; color: #4A90E2;">🇺🇸 United States</span>
+</div>
+
 
 
 
