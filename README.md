@@ -10,9 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&width=220&lines=United+States" 
        alt="Typing SVG United States" 
        style="display: block; margin-top: 4px;"/>
-  
 </div>
-
+---
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
