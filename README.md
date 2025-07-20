@@ -1,25 +1,42 @@
-<div style="display: flex; align-items: center; gap: 20px; justify-content: center; margin: 30px 0;">
-  <!-- Foto de perfil do GitHub -->
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
-       alt="GitHub Profile" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%; border: 3px solid #333;"/>
+<!-- Container principal -->
+<div style="display: flex; flex-direction: column; align-items: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
 
-  <!-- Bandeira americana -->
-  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
-       alt="American Flag" 
-       width="100" 
-       height="100" 
-       style="border-radius: 50px; border: 3px solid #0077B6;"/>
-</div>
-
-<div style="text-align: center;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="https://i.imgur.com/fVNIwhb.png" 
+  <!-- Linha com perfil do GitHub + bandeira -->
+  <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+    <!-- Foto de perfil do GitHub -->
+    <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+         alt="GitHub Profile" 
          width="150" 
          height="150" 
-         style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
+         style="border-radius: 50%; border: 3px solid #333; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"/>
+
+    <!-- Bandeira americana -->
+    <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
+         alt="American Flag" 
+         width="100" 
+         height="100" 
+         style="border-radius: 50px; border: 3px solid #0077B6; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"/>
+  </div>
+
+  <!-- Linha com outra imagem -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://i.imgur.com/fVNIwhb.png" 
+         alt="Imagem adicional" 
+         width="150" 
+         height="150" 
+         style="border-radius: 50px; border: 3px solid #0077B6; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"/>
+  </div>
+</div>
+
+<!-- Textos animados (Typing SVG) -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
+       alt="Typing SVG">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
+       alt="Typing SVG">
+</div>
+
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
            alt="Typing SVG" style="margin: 0 auto;">
