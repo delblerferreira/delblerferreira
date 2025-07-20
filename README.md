@@ -11,12 +11,12 @@
        style="display: block; margin-top: 4px;"/>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 5px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: -20px 0 0 0;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
        width="150" 
        height="150" 
        style="border-radius: 15px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 0;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
          alt="Typing SVG" style="margin: 0 auto;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
@@ -24,7 +24,7 @@
   </div>
 </div>
 
-  <hr>
+<hr>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
