@@ -6,9 +6,9 @@
        width="100" 
        style="border-radius: 50px; border: 3px solid #0077B6; display: block;"/>
 
-  <!-- Letreiro animado "United States" -->
+  <!-- Letreiro animado "USA" -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&width=100&lines=United+States" 
-       alt="Typing SVG United States" 
+       alt="Typing SVG USA" 
        style="display: block; margin-top: 4px;"/>
   
 </div>
