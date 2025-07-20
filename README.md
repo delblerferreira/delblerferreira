@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 8px;">
+<div style="display: flex; align-items: flex-start; gap: 8px;">
   <!-- Bandeira americana -->
   <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
        alt="American Flag" 
@@ -7,11 +7,9 @@
 
   <!-- Animação de texto "United States" -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=200&lines=United+States" 
-       alt="Typing SVG United States" />
+       alt="Typing SVG United States" 
+       style="margin-top: 2mm;" />
 </div>
-
-
-
 
 <!-- Imagem centralizada -->
 <p align="center">
