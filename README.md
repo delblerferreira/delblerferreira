@@ -1,15 +1,14 @@
-<!-- Bandeira americana alinhada à esquerda -->
-<p align="left" style="margin-bottom: 10px;">
-  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
-       alt="American Flag" 
-       width="100" 
-       style="border-radius: 50px; border: 3px solid #0077B6;">
-</p>
-
-<!-- Letreiro animado centralizado -->
-<div style="max-width: 400px; margin: 0 auto; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center; display: flex; align-items: center; gap: 2mm; justify-content: center;">
-  <span style="font-size: 28px; font-weight: bold; color: #4A90E2;">🇺🇸 United States</span>
+<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
+  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+    <span>🇺🇸</span> United States
+  </h3>
+  
+  <!-- Animação de texto "United States" via readme-typing-svg -->
+  <p style="margin-top: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=280&lines=United+States" alt="Typing SVG United States" />
+  </p>
 </div>
+
 
 
 
