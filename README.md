@@ -1,12 +1,31 @@
-<!-- Bandeira americana alinhada à esquerda -->
-<p align="left">
+<!-- Linha com bandeira americana e letreiro ao lado -->
+<div align="left" style="display: flex; align-items: center; gap: 15px;">
+
+  <!-- Bandeira americana -->
   <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
        alt="American Flag" 
        width="100" 
-       style="border-radius: 50px; border: 3px solid #0077B6;">
-  <br>
-  <strong style="color: #b22234; font-size: 20px;">🇺🇸 United States</strong>
-</p>
+       style="border-radius: 50px; border: 3px solid #0077B6;"/>
+
+  <!-- Letreiro com cores da bandeira -->
+  <span style="font-size: 18px; font-weight: bold;">
+    <span style="color: #b22234;">U</span>
+    <span style="color: #ffffff;">n</span>
+    <span style="color: #3c3b6e;">i</span>
+    <span style="color: #b22234;">t</span>
+    <span style="color: #ffffff;">e</span>
+    <span style="color: #3c3b6e;">d</span>
+    <span style="color: #b22234;"> </span>
+    <span style="color: #ffffff;">S</span>
+    <span style="color: #3c3b6e;">t</span>
+    <span style="color: #b22234;">a</span>
+    <span style="color: #ffffff;">t</span>
+    <span style="color: #3c3b6e;">e</span>
+    <span style="color: #b22234;">s</span>
+  </span>
+
+</div>
+
 
 <!-- Imagem centralizada -->
 <p align="center">
