@@ -1,17 +1,16 @@
-<div style="position: relative; display: inline-block;">
-
+<div style="display: flex; align-items: flex-start; gap: 8px;">
   <!-- Bandeira americana -->
   <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
        alt="American Flag" 
        width="100" 
-       style="border-radius: 50px; border: 3px solid #0077B6; display: block;"/>
+       style="border-radius: 50px; border: 3px solid #0077B6;"/>
 
-  <!-- Letreiro animado posicionado no topo direito da imagem -->
-  <div style="position: absolute; top: 2mm; right: -120px; width: 120px; text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=true&width=120&lines=United+States" alt="Typing SVG United States" />
-  </div>
-
+  <!-- Animação de texto "United States" -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=200&lines=United+States" 
+       alt="Typing SVG United States" 
+       style="margin-top: 2mm;" />
 </div>
+
 
 
 
