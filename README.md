@@ -1,33 +1,40 @@
-<div style="display: flex; align-items: flex-start; gap: 8px;">
+<!-- Linha com perfil do GitHub + bandeira americana -->
+<div style="display: flex; align-items: center; gap: 20px; justify-content: center; margin: 30px 0;">
+  <!-- Foto de perfil do GitHub -->
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+       alt="GitHub Profile" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 3px solid #333;"/>
+
   <!-- Bandeira americana -->
   <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
        alt="American Flag" 
        width="100" 
+       height="100" 
        style="border-radius: 50px; border: 3px solid #0077B6;"/>
-
-  <!-- Animação de texto "United States" -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=200&lines=United+States"     <!-- Imagem centralizada -->
-<p align="center">
-  <img src="https://i.imgur.com/fVNIwhb.png" 
-       width="150" 
-       style="border-radius: 50px; border: 3px solid #0077B6;">
-</p>
-
-<!-- Textos animados centralizados -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
-       alt="Typing SVG">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
-       alt="Typing SVG">
-</p>
-
-<hr>
-       alt="Typing SVG United States" 
-       style="margin-top: 2mm;" />
 </div>
 
+<!-- Imagem adicional centralizada -->
+<div style="text-align: center;">
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+    <img src="https://i.imgur.com/fVNIwhb.png" 
+         width="150" 
+         height="150" 
+         style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
+  </div
+</div>
 
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
+       alt="Typing SVG">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
+       alt="Typing SVG">
+</div>
+</div>
+
+  <hr>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
