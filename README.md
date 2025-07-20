@@ -1,4 +1,4 @@
-<div style="width: 100px;">
+<div style="width: 220px;">
 
   <!-- Bandeira americana -->
   <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
@@ -6,12 +6,22 @@
        width="100" 
        style="border-radius: 50px; border: 3px solid #0077B6; display: block;"/>
 
-  <!-- Letreiro animado "USA" -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&width=100&lines=USA" 
-       alt="Typing SVG USA" 
+  <!-- Letreiro animado "United States" -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&width=220&lines=United+States" 
+       alt="Typing SVG United States" 
        style="display: block; margin-top: 4px;"/>
   
 </div>
+
+<!-- Espaço de 2cm antes da imagem de perfil do GitHub -->
+<div style="display: inline-block; width: 2cm;"></div>
+
+<!-- Imagem de perfil do GitHub -->
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+     alt="GitHub Profile" 
+     width="150" 
+     height="150" 
+     style="border-radius: 50%; border: 3px solid #333; vertical-align: middle;"/>
 
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
