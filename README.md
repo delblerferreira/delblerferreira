@@ -21,19 +21,15 @@
   </div>
 </div>
 
-<!-- Letreiro animado centralizado -->
-<div style="text-align: center; margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=United+States" 
-       alt="Typing SVG United States" 
-       style="display: inline-block; margin: 0 auto;"/>
-</div>
+ <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+    <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
+    <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank" rel="noopener noreferrer">
+      <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
+    </a>
+  </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
-       alt="Typing SVG">
+  <hr>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
-       alt="Typing SVG">
 </div>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
