@@ -1,30 +1,22 @@
 <table>
   <tr>
-    <!-- Coluna 1: Bandeira + letreiro -->
-    <td align="center" valign="top" width="140" style="padding-right: 30px;">
-      <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
-           alt="American Flag" 
-           width="100" 
-           style="border-radius: 50px; border: 3px solid #0077B6; display: block; margin: 0 auto 8px auto;" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=true&width=120&lines=United+States" 
-           alt="Typing SVG United States" 
-           style="display: block; margin: 0 auto;" />
+    <td align="center" valign="top" width="140">
+      <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" alt="American Flag" width="100" />
+      <br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=true&width=120&lines=United+States" alt="Typing SVG United States" />
     </td>
 
-    <!-- Coluna 2: Imagem 8G-Rede alinhada ao topo + letreiros animados abaixo -->
     <td align="center" valign="top">
-      <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
-           width="150" 
-           height="150" 
-           style="border-radius: 15px; border: 3px solid #0077B6; margin-bottom: 10px; display: block; margin-left: auto; margin-right: auto;" />
-      <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
-             alt="Typing SVG" style="display: block; margin: 10px auto;" />
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer" 
-             alt="Typing SVG" style="display: block; margin: 0 auto;" />
-      </div>
+      <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" alt="8G Rede" width="150" height="150" />
+      <br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" alt="Typing SVG" />
+      <br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer" alt="Typing SVG" />
     </td>
-  <hr>
+  </tr>
+</table>
+
+
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
