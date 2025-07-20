@@ -18,7 +18,14 @@
          width="150" 
          height="150" 
          style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
-  </div
+  </div>
+</div>
+
+<!-- Letreiro animado centralizado -->
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=United+States" 
+       alt="Typing SVG United States" 
+       style="display: inline-block; margin: 0 auto;"/>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
@@ -28,9 +35,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
        alt="Typing SVG">
 </div>
-</div>
-
-  <hr>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
