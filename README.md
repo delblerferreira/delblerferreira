@@ -1,5 +1,4 @@
 <div style="width: 220px;">
-
   <!-- Bandeira americana -->
   <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
        alt="American Flag" 
@@ -11,7 +10,7 @@
        alt="Typing SVG United States" 
        style="display: block; margin-top: 4px;"/>
 </div>
----
+
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
