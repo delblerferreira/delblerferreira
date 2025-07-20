@@ -26,9 +26,9 @@
          height="150" 
          style="border-radius: 50px; border: 3px solid #0077B6; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"/>
   </div>
+
 </div>
 
-<!-- Textos animados (Typing SVG) -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 30px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferreira;Developer+of+this+page" 
        alt="Typing SVG">
