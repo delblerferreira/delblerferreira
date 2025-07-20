@@ -4,6 +4,8 @@
        alt="American Flag" 
        width="100" 
        style="border-radius: 50px; border: 3px solid #0077B6;">
+  <br>
+  <strong style="color: #b22234; font-size: 20px;">🇺🇸 United States</strong>
 </p>
 
 <!-- Imagem centralizada -->
