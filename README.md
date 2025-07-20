@@ -1,12 +1,18 @@
-<div style="text-align: center;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
-         width="150" 
-         height="150" 
-         style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
+<div style="display: flex; align-items: center; gap: 20px; justify-content: center; margin: 30px 0;">
+  <!-- Foto de perfil do GitHub -->
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+       alt="GitHub Profile" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 3px solid #333;"/>
 
-
-
+  <!-- Bandeira americana -->
+  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
+       alt="American Flag" 
+       width="100" 
+       height="100" 
+       style="border-radius: 50px; border: 3px solid #0077B6;"/>
+</div>
 
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
