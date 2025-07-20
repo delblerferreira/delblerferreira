@@ -1,17 +1,36 @@
-<div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
-    <span>🇺🇸</span> United States
-  </h3>
-  
+<!-- Linha com bandeira americana e letreiro ao lado -->
+<div align="left" style="display: flex; align-items: center; gap: 15px;">
+
+  <!-- Bandeira americana -->
+  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
+       alt="American Flag" 
+       width="100" 
+       style="border-radius: 50px; border: 3px solid #0077B6;"/>
+
+  <!-- Letreiro com cores da bandeira -->
+  <span style="font-size: 18px; font-weight: bold;">
+    <span style="color: #b22234;">U</span>
+    <span style="color: #ffffff;">n</span>
+    <span style="color: #3c3b6e;">i</span>
+    <span style="color: #b22234;">t</span>
+    <span style="color: #ffffff;">e</span>
+    <span style="color: #3c3b6e;">d</span>
+    <span style="color: #b22234;"> </span>
+    <span style="color: #ffffff;">S</span>
+    <span style="color: #3c3b6e;">t</span>
+    <span style="color: #b22234;">a</span>
+    <span style="color: #ffffff;">t</span>
+    <span style="color: #3c3b6e;">e</span>
+    <span style="color: #b22234;">s</span>
+  </span>
+
+</div>
+
   <!-- Animação de texto "United States" via readme-typing-svg -->
   <p style="margin-top: 10px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=280&lines=United+States" alt="Typing SVG United States" />
   </p>
 </div>
-
-
-
-
 
 <!-- Imagem centralizada -->
 <p align="center">
