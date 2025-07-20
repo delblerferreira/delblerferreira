@@ -13,16 +13,6 @@
   
 </div>
 
-<!-- Espaço de 2cm antes da imagem de perfil do GitHub -->
-<div style="display: inline-block; width: 2cm;"></div>
-
-<!-- Imagem de perfil do GitHub -->
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
-     alt="GitHub Profile" 
-     width="150" 
-     height="150" 
-     style="border-radius: 50%; border: 3px solid #333; vertical-align: middle;"/>
-
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
