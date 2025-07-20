@@ -6,12 +6,7 @@
        style="border-radius: 50px; border: 3px solid #0077B6;"/>
 
   <!-- Animação de texto "United States" -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=200&lines=United+States" 
-       alt="Typing SVG United States" 
-       style="margin-top: 2mm;" />
-</div>
-
-<!-- Imagem centralizada -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=200&lines=United+States"     <!-- Imagem centralizada -->
 <p align="center">
   <img src="https://i.imgur.com/fVNIwhb.png" 
        width="150" 
@@ -28,6 +23,11 @@
 </p>
 
 <hr>
+       alt="Typing SVG United States" 
+       style="margin-top: 2mm;" />
+</div>
+
+
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
