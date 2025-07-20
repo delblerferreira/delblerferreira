@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="[https://i.imgur.com/fVNIwhb.png](https://tse2.mm.bing.net/th/id/OIP.38ntNGCvbND80EAKgpBEFwHaHa?r=0&pid=ImgDet&w=184&h=184&c=7&dpr=1,3&o=7&rm=3)" 
+    <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
          width="150" 
          height="150" 
          style="border-radius: 50px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
